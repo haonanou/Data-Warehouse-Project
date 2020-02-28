@@ -1,0 +1,152 @@
+====Loan Type Dim
+
+CREATE TABLE "PUBLIC"."loan_type_dim"
+(
+  loantype_dim_id IDENTITY
+, version INTEGER
+, date_from TIMESTAMP
+, date_to TIMESTAMP
+, LoanTypeID BIGINT
+, LoanType VARCHAR(12)
+)
+;CREATE INDEX idx_loan_type_dim_lookup ON "PUBLIC"."loan_type_dim"(LoanTypeID)
+;
+CREATE INDEX idx_loan_type_dim_tk ON "PUBLIC"."loan_type_dim"(loantype_dim_id)
+;
+
+
+====RaceEthinicity Dim
+
+CREATE TABLE "PUBLIC"."race_ethnicity_dim"
+(
+  race_ethnicity_id IDENTITY
+, version INTEGER
+, date_from TIMESTAMP
+, date_to TIMESTAMP
+, RaceEthnicityID BIGINT
+, RACEETHNICITY VARCHAR(23)
+)
+;CREATE INDEX idx_race_ethnicity_dim_lookup ON "PUBLIC"."race_ethnicity_dim"(RaceEthnicityID)
+;
+CREATE INDEX idx_race_ethnicity_dim_tk ON "PUBLIC"."race_ethnicity_dim"(race_ethnicity_id)
+;
+
+
+====Time Dim
+
+CREATE TABLE "PUBLIC"."time_dim"
+(
+  time_dim_id IDENTITY
+, version INTEGER
+, date_from TIMESTAMP
+, date_to TIMESTAMP
+, TimeID BIGINT
+, Year BIGINT
+)
+;CREATE INDEX idx_time_dim_lookup ON "PUBLIC"."time_dim"(TimeID)
+;
+CREATE INDEX idx_time_dim_tk ON "PUBLIC"."time_dim"(time_dim_id)
+;
+
+
+====Age Dim
+
+CREATE TABLE "PUBLIC"."Age_dim"
+(
+  Age_dim_id IDENTITY
+, version INTEGER
+, date_from TIMESTAMP
+, date_to TIMESTAMP
+, AgeID VARCHAR(5)
+, "Age Group" VARCHAR(6)
+)
+;CREATE INDEX idx_Age_dim_lookup ON "PUBLIC"."Age_dim"(AgeID)
+;
+CREATE INDEX idx_Age_dim_tk ON "PUBLIC"."Age_dim"(Age_dim_id)
+;
+
+
+====Gender Dim
+
+CREATE TABLE "PUBLIC"."gender__dim"
+(
+  gender_dim_id IDENTITY
+, version INTEGER
+, date_from TIMESTAMP
+, date_to TIMESTAMP
+, GenderID BIGINT
+, Gender VARCHAR(6)
+)
+;CREATE INDEX idx_gender__dim_lookup ON "PUBLIC"."gender__dim"(GenderID)
+;
+CREATE INDEX idx_gender__dim_tk ON "PUBLIC"."gender__dim"(gender_dim_id)
+;
+
+
+====Region Dim
+
+CREATE TABLE "PUBLIC"."region_dim"
+(
+  region_dim_id IDENTITY
+, version INTEGER
+, date_from TIMESTAMP
+, date_to TIMESTAMP
+, RegionID BIGINT
+, Region VARCHAR(3)
+)
+;CREATE INDEX idx_region_dim_lookup ON "PUBLIC"."region_dim"(RegionID)
+;
+CREATE INDEX idx_region_dim_tk ON "PUBLIC"."region_dim"(region_dim_id)
+;
+
+
+====Birth Fact
+
+CREATE TABLE "PUBLIC"."birth_fact"
+(
+  GenderID BIGINT
+, TimeID BIGINT
+, RaceEthnicityID BIGINT
+, "Birth Year" BIGINT
+, "Sex Of Infant" VARCHAR(6)
+, "Race or Ethnicity of Mother" VARCHAR(23)
+, Births DECIMAL(30, 0)
+, Percentage DECIMAL(4, 1)
+, race_ethnicity_id INTEGER
+, time_dim_id INTEGER
+, gender_dim_id INTEGER
+)
+;
+
+
+====Loan Fact
+
+CREATE TABLE "PUBLIC"."loan_fact"
+(
+  HELOC BIGINT
+, "Auto Loan" BIGINT
+, "Credit Card" BIGINT
+, "Student Loan" BIGINT
+, Other BIGINT
+, Time BIGINT
+, TimeID BIGINT
+, time_dim_id INTEGER
+, LoanSum DOUBLE
+, CreditOtherSum DOUBLE
+, TotalDollar DOUBLE
+)
+;
+
+
+====Death Fact
+
+CREATE TABLE "PUBLIC"."death_fact"
+(
+  time_dim_id INTEGER
+, gender_dim_id INTEGER
+, race_ethnicity_id INTEGER
+, Age_dim_id INTEGER
+, region_dim_id INTEGER
+, "Total Deaths by Age/Gender/Ethnicity" DOUBLE
+)
+;

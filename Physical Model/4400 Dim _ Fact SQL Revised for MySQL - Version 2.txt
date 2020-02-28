@@ -1,0 +1,102 @@
+CREATE TABLE Loan_Dim
+(
+  loantype_dim_id INT(15) PRIMARY KEY, 
+  version INT, 
+  date_from DATETIME, 
+  date_to DATETIME,
+  LoanTypeID INT(15), 
+  LoanType VARCHAR(12)
+);
+
+CREATE TABLE Race_Dim
+(
+  race_ethnicity_id INT(15) PRIMARY KEY,
+  RaceEthnicityID INT(15), 
+  RaceEthnicity VARCHAR(23)
+);
+
+CREATE TABLE Time_Dim
+(
+  time_dim_id INT(15) PRIMARY KEY, 
+  TimeID INT(15), 
+  Year INT(15)
+);
+
+CREATE TABLE Age_Dim
+(
+  Age_dim_id INT PRIMARY KEY, 
+  version INT, 
+  date_from DATETIME, 
+  date_to DATETIME, 
+  AgeID VARCHAR(5), 
+  AgeGroup VARCHAR(6)
+);
+
+CREATE TABLE Gender_Dim
+(
+  gender_dim_id INT(15) PRIMARY KEY, 
+  GenderID INT(15),
+  Gender VARCHAR(6)
+);
+
+CREATE TABLE Region_Dim
+(
+  region_dim_id INT(15) PRIMARY KEY, 
+  RegionID INT(15),
+  Region VARCHAR(3)
+);
+
+CREATE TABLE Birth_Fact
+(
+   GenderID INT(15),
+   TimeID INT(15),
+   RaceEthnicityID INT(15),
+   BirthYear INT(15),
+   SexOfInfant VARCHAR(6), 
+   RaceOfMother VARCHAR(23),
+   Births DECIMAL(30, 0),
+   Percentage DECIMAL(4, 1), 
+   race_ethnicity_id INT(15),
+   time_dim_id INT(15),
+   gender_dim_id INT(15)
+);
+
+CREATE TABLE Loan_Fact
+(
+  HELOC INT(15),
+  AutoLoan INT(15),
+  CreditCard INT(15),
+  StudentLoan INT(15),
+  Other INT(15),
+  Time INT(15),
+  TimeID INT(15),
+  time_dim_id INT(15) PRIMARY KEY,
+  LoanSum INT(15),
+  CreditOtherSum INT(15),
+  TotalDollar INT(15)
+);
+
+CREATE TABLE Death_Fact
+(
+  time_dim_id INT, 
+  gender_dim_id INT, 
+  race_ethnicity_id INT, 
+  Age_dim_id INT, 
+  region_dim_id INT, 
+  TotalDeathsAgeGenderEth DOUBLE
+);
+
+===DEATH FACT FK ALTER STATEMENTS
+ALTER TABLE Death_Fact ADD CONSTRAINT time_dim_id_fk FOREIGN KEY time_dim_id REFERENCES Time_Dim(time_dim_id);
+ALTER TABLE Death_Fact ADD CONSTRAINT gender_dim_id_fk FOREIGN KEY gender_dim_id REFERENCES Gender_Dim(gender_dim_id);
+ALTER TABLE Death_Fact ADD CONSTRAINT race_ethnicity_id_fk FOREIGN KEY race_ethnicity_id REFERENCES Race_Dim(race_ethinicity_id);
+ALTER TABLE Death_Fact ADD CONSTRAINT Age_dim_id_fk FOREIGN KEY Age_dim_id REFERENCES Age_Dim(Age_dim_id);
+ALTER TABLE Death_Fact ADD CONSTRAINT region_dim_id_fk FOREIGN KEY region_dim_id REFERENCES Region_Dim(region_dim_id);
+
+===LOAN FACT FK ALTER STATEMENTS
+ALTER TABLE Loan_Fact ADD CONSTRAINT time_dim_id_fk FOREIGN KEY time_dim_id REFERENCES Time_Dim(time_dim_id);
+
+===BIRTH FACT FK ALTER STATEMENTS
+ALTER TABLE Birth_Fact ADD CONSTRAINT time_dim_id_fk FOREIGN KEY time_dim_id REFERENCES Time_Dim(time_dim_id);
+ALTER TABLE Birth_Fact ADD CONSTRAINT gender_dim_id_fk FOREIGN KEY gender_dim_id REFERENCES Gender_Dim(gender_dim_id);
+ALTER TABLE Birth_Fact ADD CONSTRAINT race_ethnicity_id_fk FOREIGN KEY race_ethnicity_id REFERENCES Race_Dim(race_ethinicity_id);
