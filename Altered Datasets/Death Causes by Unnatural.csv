@@ -1,0 +1,1838 @@
+﻿GenderID,TimeID,AgeID,RaceEthnicityID,RegionID,Year,Region,Race or Ethnicity,Sex,Age Group,Firearm Deaths,Alcohol-Related Deaths,Suicide Deaths
+1,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Female,Total,40,746,202
+1,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Female,Total,0,27,30
+2,FALSE,6,3,2,2016,ROS,Asian/ Pacific Islander,Male,65-74,0,7,1
+2,FALSE,3,5,1,2016,NYC,Other,Male,35-44,1,2,3
+2,FALSE,5,1,1,2016,NYC,White Non Hispanic,Male,55-64,4,149,45
+2,FALSE,5,5,2,2016,ROS,Other,Male,55-64,0,6,0
+1,FALSE,6,4,1,2016,NYC,Hispanic,Female,65-74,0,32,1
+2,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Male,Total,112,150,50
+2,FALSE,8,2,2,2016,ROS,Black Non Hispanic,Male,85+,0,1,0
+2,FALSE,6,2,1,2016,NYC,Black Non Hispanic,Male,65-74,1,71,2
+1,FALSE,5,2,1,2016,NYC,Black Non Hispanic,Female,55-64,1,68,4
+1,FALSE,2,5,2,2016,ROS,Other,Female,25-34,0,1,0
+1,FALSE,2,5,1,2016,NYC,Other,Female,25-34,0,0,1
+2,FALSE,1,3,2,2016,ROS,Asian/ Pacific Islander,Male,20-24,3,1,2
+1,FALSE,8,2,2,2016,ROS,Black Non Hispanic,Female,85+,0,0,0
+1,FALSE,1,3,1,2016,NYC,Asian/ Pacific Islander,Female,20-24,0,0,3
+2,FALSE,2,5,1,2016,NYC,Other,Male,25-34,1,2,0
+2,FALSE,3,4,1,2016,NYC,Hispanic,Male,35-44,10,68,16
+1,FALSE,6,2,1,2016,NYC,Black Non Hispanic,Female,65-74,0,31,2
+2,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Male,<1,0,0,0
+1,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Female,Total,11,64,12
+2,FALSE,3,5,2,2016,ROS,Other,Male,35-44,2,1,0
+1,FALSE,FALSE,4,1,2016,NYC,Hispanic,Female,Total,7,165,22
+1,FALSE,FALSE,5,1,2016,NYC,Other,Female,9-Jan,0,0,0
+1,FALSE,6,5,2,2016,ROS,Other,Female,65-74,0,1,0
+2,FALSE,7,4,2,2016,ROS,Hispanic,Male,75-84,1,7,1
+1,FALSE,8,4,1,2016,NYC,Hispanic,Female,85+,0,14,0
+1,FALSE,4,5,2,2016,ROS,Other,Female,45-54,0,1,0
+1,FALSE,2,1,2,2016,ROS,White Non Hispanic,Female,25-34,4,28,19
+2,FALSE,4,4,2,2016,ROS,Hispanic,Male,45-54,4,39,11
+2,FALSE,FALSE,5,2,2016,ROS,Other,Male,Total,6,16,7
+2,FALSE,FALSE,4,2,2016,ROS,Hispanic,Male,<1,0,0,0
+2,FALSE,3,3,1,2016,NYC,Asian/ Pacific Islander,Male,35-44,1,16,7
+2,FALSE,2,2,2,2016,ROS,Black Non Hispanic,Male,25-34,34,12,9
+2,FALSE,6,4,1,2016,NYC,Hispanic,Male,65-74,0,84,4
+2,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Male,9-Jan,0,0,2
+1,FALSE,7,5,1,2016,NYC,Other,Female,75-84,0,1,0
+2,FALSE,2,1,2,2016,ROS,White Non Hispanic,Male,25-34,39,80,94
+1,FALSE,FALSE,5,2,2016,ROS,Other,Female,19-Oct,0,0,0
+2,FALSE,3,4,2,2016,ROS,Hispanic,Male,35-44,9,27,8
+2,FALSE,FALSE,4,1,2016,NYC,Hispanic,Male,<1,0,0,0
+2,FALSE,7,2,2,2016,ROS,Black Non Hispanic,Male,75-84,1,7,2
+1,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Female,19-Oct,5,0,2
+1,FALSE,2,3,2,2016,ROS,Asian/ Pacific Islander,Female,25-34,0,0,4
+1,FALSE,8,1,1,2016,NYC,White Non Hispanic,Female,85+,1,16,2
+2,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Male,Total,397,"1,715",788
+2,FALSE,8,3,2,2016,ROS,Asian/ Pacific Islander,Male,85+,0,1,0
+2,FALSE,3,3,2,2016,ROS,Asian/ Pacific Islander,Male,35-44,0,4,2
+2,FALSE,5,4,1,2016,NYC,Hispanic,Male,55-64,0,152,8
+1,FALSE,5,3,2,2016,ROS,Asian/ Pacific Islander,Female,55-64,0,1,1
+2,FALSE,7,4,1,2016,NYC,Hispanic,Male,75-84,0,36,1
+2,FALSE,FALSE,4,2,2016,ROS,Hispanic,Male,19-Oct,3,0,5
+1,FALSE,7,3,1,2016,NYC,Asian/ Pacific Islander,Female,75-84,0,7,3
+1,FALSE,3,5,2,2016,ROS,Other,Female,35-44,0,1,1
+2,FALSE,4,5,1,2016,NYC,Other,Male,45-54,0,10,2
+2,FALSE,1,2,2,2016,ROS,Black Non Hispanic,Male,20-24,30,3,11
+2,FALSE,FALSE,4,1,2016,NYC,Hispanic,Male,9-Jan,0,0,0
+2,FALSE,FALSE,4,1,2016,NYC,Hispanic,Male,Total,45,518,76
+2,FALSE,7,1,1,2016,NYC,White Non Hispanic,Male,75-84,6,45,13
+2,FALSE,7,3,2,2016,ROS,Asian/ Pacific Islander,Male,75-84,1,4,2
+2,FALSE,3,1,2,2016,ROS,White Non Hispanic,Male,35-44,46,122,118
+1,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Male,19-Oct,18,1,44
+2,FALSE,2,1,1,2016,NYC,White Non Hispanic,Male,25-34,3,30,17
+2,FALSE,1,4,1,2016,NYC,Hispanic,Male,20-24,11,4,8
+1,FALSE,4,3,2,2016,ROS,Asian/ Pacific Islander,Female,45-54,0,1,1
+2,FALSE,2,2,1,2016,NYC,Black Non Hispanic,Male,25-34,55,10,15
+1,FALSE,4,1,1,2016,NYC,White Non Hispanic,Female,45-54,1,31,13
+1,FALSE,FALSE,4,2,2016,ROS,Hispanic,Female,<1,0,0,0
+1,FALSE,2,2,1,2016,NYC,Black Non Hispanic,Female,25-34,6,10,5
+1,FALSE,7,4,1,2016,NYC,Hispanic,Female,75-84,0,25,1
+1,FALSE,2,1,1,2016,NYC,White Non Hispanic,Female,25-34,4,9,16
+1,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Female,<1,0,0,0
+2,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,2,2,2,2016,ROS,Black Non Hispanic,Female,25-34,5,5,5
+2,FALSE,6,1,2,2016,ROS,White Non Hispanic,Male,65-74,63,374,85
+2,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Male,9-Jan,0,0,0
+1,FALSE,7,1,1,2016,NYC,White Non Hispanic,Female,75-84,0,24,8
+1,FALSE,2,4,2,2016,ROS,Hispanic,Female,25-34,1,3,2
+1,FALSE,FALSE,4,1,2016,NYC,Hispanic,Female,9-Jan,0,0,0
+1,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Female,<1,0,1,0
+2,FALSE,FALSE,5,2,2016,ROS,Other,Male,9-Jan,0,0,0
+1,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,3,1,1,2016,NYC,White Non Hispanic,Female,35-44,1,12,14
+1,FALSE,3,5,1,2016,NYC,Other,Female,35-44,0,1,0
+1,FALSE,3,3,1,2016,NYC,Asian/ Pacific Islander,Female,35-44,0,2,2
+2,FALSE,5,1,2,2016,ROS,White Non Hispanic,Male,55-64,83,567,157
+1,FALSE,5,5,1,2016,NYC,Other,Female,55-64,0,7,2
+2,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Female,Total,11,158,87
+2,FALSE,6,5,2,2016,ROS,Other,Male,65-74,1,3,1
+1,FALSE,6,3,1,2016,NYC,Asian/ Pacific Islander,Female,65-74,0,5,1
+1,FALSE,5,5,2,2016,ROS,Other,Female,55-64,0,0,0
+2,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Male,Total,159,317,59
+2,FALSE,2,5,2,2016,ROS,Other,Male,25-34,0,1,2
+1,FALSE,1,5,1,2016,NYC,Other,Female,20-24,0,0,1
+1,FALSE,4,1,2,2016,ROS,White Non Hispanic,Female,45-54,7,137,62
+2,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Male,19-Oct,0,0,1
+2,FALSE,5,2,2,2016,ROS,Black Non Hispanic,Male,55-64,4,55,6
+2,FALSE,FALSE,4,2,2016,ROS,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,5,4,1,2016,NYC,Hispanic,Female,55-64,0,43,4
+1,FALSE,8,1,2,2016,ROS,White Non Hispanic,Female,85+,1,44,1
+2,FALSE,4,3,2,2016,ROS,Asian/ Pacific Islander,Male,45-54,0,10,1
+2,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Male,<1,0,0,0
+2,FALSE,6,5,1,2016,NYC,Other,Male,65-74,0,8,1
+1,FALSE,FALSE,4,1,2016,NYC,Hispanic,Female,<1,0,0,0
+1,FALSE,2,4,1,2016,NYC,Hispanic,Female,25-34,0,8,3
+1,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Female,19-Oct,0,0,0
+2,FALSE,FALSE,5,1,2016,NYC,Other,Male,19-Oct,0,0,0
+2,FALSE,7,5,1,2016,NYC,Other,Male,75-84,0,3,0
+2,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Male,Total,8,35,16
+1,FALSE,8,5,1,2016,NYC,Other,Female,85+,0,0,0
+1,FALSE,1,1,1,2016,NYC,White Non Hispanic,Female,20-24,1,0,5
+1,FALSE,FALSE,5,2,2016,ROS,Other,Female,<1,0,0,0
+2,FALSE,8,2,1,2016,NYC,Black Non Hispanic,Male,85+,0,2,0
+2,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Male,<1,0,0,0
+2,FALSE,4,1,1,2016,NYC,White Non Hispanic,Male,45-54,3,142,32
+2,FALSE,8,1,1,2016,NYC,White Non Hispanic,Male,85+,1,11,6
+2,FALSE,5,4,2,2016,ROS,Hispanic,Male,55-64,2,37,5
+2,FALSE,4,1,2,2016,ROS,White Non Hispanic,Male,45-54,75,333,160
+1,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Female,9-Jan,0,0,0
+1,FALSE,FALSE,5,1,2016,NYC,Other,Female,<1,0,1,0
+2,FALSE,8,1,2,2016,ROS,White Non Hispanic,Male,85+,14,55,22
+1,FALSE,3,2,2,2016,ROS,Black Non Hispanic,Female,35-44,1,5,3
+1,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Female,9-Jan,0,0,0
+1,FALSE,7,5,2,2016,ROS,Other,Female,75-84,0,1,0
+1,FALSE,5,4,2,2016,ROS,Hispanic,Female,55-64,0,16,1
+1,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Female,19-Oct,4,1,12
+1,FALSE,7,2,2,2016,ROS,Black Non Hispanic,Female,75-84,0,3,0
+2,FALSE,7,5,2,2016,ROS,Other,Male,75-84,0,2,0
+2,FALSE,FALSE,5,1,2016,NYC,Other,Male,Total,4,45,6
+1,FALSE,FALSE,5,2,2016,ROS,Other,Female,Total,0,5,1
+1,FALSE,FALSE,4,1,2016,NYC,Hispanic,Female,19-Oct,0,0,3
+1,FALSE,8,4,2,2016,ROS,Hispanic,Female,85+,0,1,0
+1,FALSE,6,1,2,2016,ROS,White Non Hispanic,Female,65-74,4,155,20
+1,FALSE,4,4,1,2016,NYC,Hispanic,Female,45-54,3,29,2
+2,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Male,9-Jan,0,0,0
+1,FALSE,3,1,2,2016,ROS,White Non Hispanic,Female,35-44,10,57,29
+1,FALSE,FALSE,4,2,2016,ROS,Hispanic,Female,19-Oct,0,0,2
+1,FALSE,8,3,1,2016,NYC,Asian/ Pacific Islander,Female,85+,0,4,1
+2,FALSE,4,3,1,2016,NYC,Asian/ Pacific Islander,Male,45-54,0,15,4
+2,FALSE,2,3,1,2016,NYC,Asian/ Pacific Islander,Male,25-34,0,5,4
+2,FALSE,3,2,1,2016,NYC,Black Non Hispanic,Male,35-44,29,20,9
+2,FALSE,4,5,2,2016,ROS,Other,Male,45-54,2,3,2
+2,FALSE,FALSE,4,1,2016,NYC,Hispanic,Male,19-Oct,6,0,5
+1,FALSE,7,3,2,2016,ROS,Asian/ Pacific Islander,Female,75-84,1,3,2
+2,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Male,19-Oct,9,0,1
+1,FALSE,6,2,2,2016,ROS,Black Non Hispanic,Female,65-74,0,13,1
+2,FALSE,5,3,1,2016,NYC,Asian/ Pacific Islander,Male,55-64,2,17,5
+1,FALSE,4,2,1,2016,NYC,Black Non Hispanic,Female,45-54,1,26,2
+2,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Male,Total,4,84,35
+1,FALSE,6,3,2,2016,ROS,Asian/ Pacific Islander,Female,65-74,0,4,0
+2,FALSE,8,4,2,2016,ROS,Hispanic,Male,85+,0,2,0
+1,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Female,19-Oct,0,0,0
+2,FALSE,7,3,1,2016,NYC,Asian/ Pacific Islander,Male,75-84,0,8,2
+1,FALSE,5,1,1,2016,NYC,White Non Hispanic,Female,55-64,0,35,14
+2,FALSE,7,1,2,2016,ROS,White Non Hispanic,Male,75-84,42,160,56
+1,FALSE,3,2,1,2016,NYC,Black Non Hispanic,Female,35-44,1,19,4
+2,FALSE,1,1,1,2016,NYC,White Non Hispanic,Male,20-24,3,7,5
+2,FALSE,FALSE,4,2,2016,ROS,Hispanic,Male,Total,39,147,46
+1,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Female,9-Jan,0,0,0
+1,FALSE,6,4,2,2016,ROS,Hispanic,Female,65-74,0,6,0
+1,FALSE,1,1,2,2016,ROS,White Non Hispanic,Female,20-24,2,3,10
+2,FALSE,1,5,1,2016,NYC,Other,Male,20-24,2,2,0
+1,FALSE,4,3,1,2016,NYC,Asian/ Pacific Islander,Female,45-54,0,6,10
+2,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Male,9-Jan,0,0,0
+2,FALSE,FALSE,5,2,2016,ROS,Other,Male,<1,0,0,0
+2,FALSE,3,2,2,2016,ROS,Black Non Hispanic,Male,35-44,18,9,11
+2,FALSE,FALSE,5,1,2016,NYC,Other,Male,<1,0,0,0
+1,FALSE,3,4,2,2016,ROS,Hispanic,Female,35-44,1,4,3
+1,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Female,Total,1,11,16
+2,FALSE,5,3,2,2016,ROS,Asian/ Pacific Islander,Male,55-64,2,7,4
+2,FALSE,FALSE,5,1,2016,NYC,Other,Male,9-Jan,0,0,0
+1,FALSE,7,1,2,2016,ROS,White Non Hispanic,Female,75-84,2,106,12
+1,FALSE,5,1,2,2016,ROS,White Non Hispanic,Female,55-64,6,215,37
+2,FALSE,1,5,2,2016,ROS,Other,Male,20-24,0,0,0
+1,FALSE,6,1,1,2016,NYC,White Non Hispanic,Female,65-74,3,31,12
+2,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Male,9-Jan,1,0,0
+2,FALSE,1,4,2,2016,ROS,Hispanic,Male,20-24,3,4,5
+1,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Female,<1,0,0,0
+1,FALSE,3,4,1,2016,NYC,Hispanic,Female,35-44,3,12,6
+1,FALSE,FALSE,1,2,2016,ROS,White Non Hispanic,Female,<1,0,0,0
+1,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Female,19-Oct,0,0,3
+2,FALSE,1,3,1,2016,NYC,Asian/ Pacific Islander,Male,20-24,0,5,7
+1,FALSE,FALSE,5,1,2016,NYC,Other,Female,19-Oct,0,0,0
+2,FALSE,4,2,2,2016,ROS,Black Non Hispanic,Male,45-54,10,31,4
+2,FALSE,7,2,1,2016,NYC,Black Non Hispanic,Male,75-84,1,20,1
+2,FALSE,8,3,1,2016,NYC,Asian/ Pacific Islander,Male,85+,0,4,1
+2,FALSE,FALSE,3,1,2016,NYC,Asian/ Pacific Islander,Male,19-Oct,1,0,1
+1,FALSE,4,4,2,2016,ROS,Hispanic,Female,45-54,0,8,1
+1,FALSE,1,4,2,2016,ROS,Hispanic,Female,20-24,2,2,3
+2,FALSE,4,2,1,2016,NYC,Black Non Hispanic,Male,45-54,15,70,15
+2,FALSE,1,1,2,2016,ROS,White Non Hispanic,Male,20-24,16,23,52
+2,FALSE,3,1,1,2016,NYC,White Non Hispanic,Male,35-44,7,49,29
+2,FALSE,5,5,1,2016,NYC,Other,Male,55-64,0,18,0
+1,FALSE,1,2,2,2016,ROS,Black Non Hispanic,Female,20-24,0,0,1
+1,FALSE,5,2,2,2016,ROS,Black Non Hispanic,Female,55-64,0,25,0
+2,FALSE,5,2,1,2016,NYC,Black Non Hispanic,Male,55-64,4,123,8
+1,FALSE,8,2,1,2016,NYC,Black Non Hispanic,Female,85+,0,3,0
+2,FALSE,8,5,2,2016,ROS,Other,Male,85+,0,0,0
+1,FALSE,2,3,1,2016,NYC,Asian/ Pacific Islander,Female,25-34,0,0,6
+2,FALSE,4,4,1,2016,NYC,Hispanic,Male,45-54,2,118,9
+1,FALSE,7,4,2,2016,ROS,Hispanic,Female,75-84,0,13,1
+2,FALSE,2,4,2,2016,ROS,Hispanic,Male,25-34,16,16,9
+1,FALSE,8,5,2,2016,ROS,Other,Female,85+,0,0,0
+1,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Female,19-Oct,1,1,1
+2,FALSE,FALSE,5,2,2016,ROS,Other,Male,19-Oct,1,0,2
+2,FALSE,1,2,1,2016,NYC,Black Non Hispanic,Male,20-24,45,1,8
+1,FALSE,FALSE,5,1,2016,NYC,Other,Female,Total,0,15,6
+2,FALSE,6,4,2,2016,ROS,Hispanic,Male,65-74,1,15,2
+1,FALSE,5,3,1,2016,NYC,Asian/ Pacific Islander,Female,55-64,0,3,4
+2,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Male,19-Oct,0,0,4
+1,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Female,<1,0,0,0
+1,FALSE,7,2,1,2016,NYC,Black Non Hispanic,Female,75-84,0,10,0
+2,FALSE,8,4,1,2016,NYC,Hispanic,Male,85+,0,6,2
+1,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Female,<1,0,0,0
+1,FALSE,FALSE,5,2,2016,ROS,Other,Female,9-Jan,0,0,0
+1,FALSE,1,3,2,2016,ROS,Asian/ Pacific Islander,Female,20-24,0,1,3
+1,FALSE,FALSE,2,1,2016,NYC,Black Non Hispanic,Female,Total,12,171,24
+2,FALSE,8,5,1,2016,NYC,Other,Male,85+,0,0,0
+1,FALSE,1,2,1,2016,NYC,Black Non Hispanic,Female,20-24,2,2,6
+1,FALSE,FALSE,4,2,2016,ROS,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,2,3,2,2016,ROS,Asian/ Pacific Islander,Male,25-34,2,1,3
+1,FALSE,6,5,1,2016,NYC,Other,Female,65-74,0,1,0
+2,FALSE,6,1,1,2016,NYC,White Non Hispanic,Male,65-74,4,109,20
+1,FALSE,3,3,2,2016,ROS,Asian/ Pacific Islander,Female,35-44,0,0,3
+1,FALSE,8,3,2,2016,ROS,Asian/ Pacific Islander,Female,85+,0,1,2
+1,FALSE,4,5,1,2016,NYC,Other,Female,45-54,0,4,2
+1,FALSE,1,4,1,2016,NYC,Hispanic,Female,20-24,1,2,2
+2,FALSE,FALSE,1,1,2016,NYC,White Non Hispanic,Male,Total,31,542,171
+2,FALSE,2,4,1,2016,NYC,Hispanic,Male,25-34,16,50,23
+2,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Male,19-Oct,14,0,3
+2,FALSE,6,2,2,2016,ROS,Black Non Hispanic,Male,65-74,1,32,2
+1,FALSE,4,2,2,2016,ROS,Black Non Hispanic,Female,45-54,0,13,0
+2,FALSE,FALSE,2,2,2016,ROS,Black Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,3,2,2016,ROS,Asian/ Pacific Islander,Female,9-Jan,0,0,0
+1,FALSE,FALSE,4,2,2016,ROS,Hispanic,Female,Total,4,53,13
+2,FALSE,6,3,1,2016,NYC,Asian/ Pacific Islander,Male,65-74,0,14,4
+1,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Female,9-Jan,1,0,0
+2,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Female,19-Oct,2,0,1
+2,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Male,19-Oct,18,0,4
+1,FALSE,1,2,1,2015,NYC,Black Non Hispanic,Female,20-24,0,0,3
+2,FALSE,1,2,1,2015,NYC,Black Non Hispanic,Male,20-24,34,0,9
+1,FALSE,2,2,1,2015,NYC,Black Non Hispanic,Female,25-34,4,10,5
+2,FALSE,2,2,1,2015,NYC,Black Non Hispanic,Male,25-34,65,4,20
+1,FALSE,3,2,1,2015,NYC,Black Non Hispanic,Female,35-44,2,9,4
+2,FALSE,3,2,1,2015,NYC,Black Non Hispanic,Male,35-44,29,20,6
+1,FALSE,4,2,1,2015,NYC,Black Non Hispanic,Female,45-54,0,34,8
+2,FALSE,4,2,1,2015,NYC,Black Non Hispanic,Male,45-54,17,73,16
+1,FALSE,5,2,1,2015,NYC,Black Non Hispanic,Female,55-64,2,58,2
+2,FALSE,5,2,1,2015,NYC,Black Non Hispanic,Male,55-64,1,142,4
+1,FALSE,6,2,1,2015,NYC,Black Non Hispanic,Female,65-74,1,38,0
+2,FALSE,6,2,1,2015,NYC,Black Non Hispanic,Male,65-74,1,73,2
+1,FALSE,7,2,1,2015,NYC,Black Non Hispanic,Female,75-84,0,9,1
+2,FALSE,7,2,1,2015,NYC,Black Non Hispanic,Male,75-84,2,30,2
+1,FALSE,8,2,1,2015,NYC,Black Non Hispanic,Female,85+,0,7,0
+2,FALSE,8,2,1,2015,NYC,Black Non Hispanic,Male,85+,0,5,0
+1,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Female,<1,0,0,0
+2,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Female,Total,12,165,24
+2,FALSE,FALSE,2,1,2015,NYC,Black Non Hispanic,Male,Total,167,347,63
+1,FALSE,FALSE,4,1,2015,NYC,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,4,1,2015,NYC,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,1,2015,NYC,Hispanic,Female,19-Oct,0,0,2
+2,FALSE,FALSE,4,1,2015,NYC,Hispanic,Male,19-Oct,6,1,3
+1,FALSE,1,4,1,2015,NYC,Hispanic,Female,20-24,3,1,2
+2,FALSE,1,4,1,2015,NYC,Hispanic,Male,20-24,22,7,17
+1,FALSE,2,4,1,2015,NYC,Hispanic,Female,25-34,3,8,6
+2,FALSE,2,4,1,2015,NYC,Hispanic,Male,25-34,13,38,13
+1,FALSE,3,4,1,2015,NYC,Hispanic,Female,35-44,1,13,4
+2,FALSE,3,4,1,2015,NYC,Hispanic,Male,35-44,14,60,10
+1,FALSE,4,4,1,2015,NYC,Hispanic,Female,45-54,0,21,8
+2,FALSE,4,4,1,2015,NYC,Hispanic,Male,45-54,10,125,14
+1,FALSE,5,4,1,2015,NYC,Hispanic,Female,55-64,0,58,1
+2,FALSE,5,4,1,2015,NYC,Hispanic,Male,55-64,1,136,8
+1,FALSE,6,4,1,2015,NYC,Hispanic,Female,65-74,0,33,4
+2,FALSE,6,4,1,2015,NYC,Hispanic,Male,65-74,0,106,7
+1,FALSE,7,4,1,2015,NYC,Hispanic,Female,75-84,0,18,2
+2,FALSE,7,4,1,2015,NYC,Hispanic,Male,75-84,0,45,3
+1,FALSE,8,4,1,2015,NYC,Hispanic,Female,85+,0,9,0
+2,FALSE,8,4,1,2015,NYC,Hispanic,Male,85+,0,10,1
+1,FALSE,FALSE,4,1,2015,NYC,Hispanic,Female,<1,0,1,0
+2,FALSE,FALSE,4,1,2015,NYC,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,1,2015,NYC,Hispanic,Female,Total,7,162,29
+2,FALSE,FALSE,4,1,2015,NYC,Hispanic,Male,Total,66,528,76
+2,FALSE,FALSE,5,1,2015,NYC,Other,Male,9-Jan,0,0,0
+2,FALSE,FALSE,5,1,2015,NYC,Other,Male,19-Oct,0,0,0
+1,FALSE,1,5,1,2015,NYC,Other,Female,20-24,0,0,0
+2,FALSE,1,5,1,2015,NYC,Other,Male,20-24,1,0,1
+1,FALSE,2,5,1,2015,NYC,Other,Female,25-34,1,2,0
+2,FALSE,2,5,1,2015,NYC,Other,Male,25-34,3,0,1
+1,FALSE,3,5,1,2015,NYC,Other,Female,35-44,0,0,0
+2,FALSE,3,5,1,2015,NYC,Other,Male,35-44,0,4,1
+1,FALSE,4,5,1,2015,NYC,Other,Female,45-54,0,3,1
+2,FALSE,4,5,1,2015,NYC,Other,Male,45-54,0,14,1
+1,FALSE,5,5,1,2015,NYC,Other,Female,55-64,0,4,0
+2,FALSE,5,5,1,2015,NYC,Other,Male,55-64,0,17,0
+1,FALSE,6,5,1,2015,NYC,Other,Female,65-74,0,3,0
+2,FALSE,6,5,1,2015,NYC,Other,Male,65-74,0,10,1
+1,FALSE,7,5,1,2015,NYC,Other,Female,75-84,0,1,0
+2,FALSE,7,5,1,2015,NYC,Other,Male,75-84,0,2,0
+1,FALSE,8,5,1,2015,NYC,Other,Female,85+,0,0,0
+2,FALSE,8,5,1,2015,NYC,Other,Male,85+,0,1,0
+1,FALSE,FALSE,5,1,2015,NYC,Other,Female,<1,0,0,0
+2,FALSE,FALSE,5,1,2015,NYC,Other,Male,<1,0,0,0
+1,FALSE,FALSE,5,1,2015,NYC,Other,Female,Total,1,13,1
+2,FALSE,FALSE,5,1,2015,NYC,Other,Male,Total,4,48,5
+1,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Female,9-Jan,0,0,0
+2,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Male,9-Jan,0,0,0
+1,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Female,19-Oct,0,0,0
+2,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Male,19-Oct,2,0,2
+1,FALSE,1,3,1,2015,NYC,Asian/ Pacific Islander,Female,20-24,0,1,4
+2,FALSE,1,3,1,2015,NYC,Asian/ Pacific Islander,Male,20-24,0,0,5
+1,FALSE,2,3,1,2015,NYC,Asian/ Pacific Islander,Female,25-34,0,1,5
+2,FALSE,2,3,1,2015,NYC,Asian/ Pacific Islander,Male,25-34,4,5,14
+1,FALSE,3,3,1,2015,NYC,Asian/ Pacific Islander,Female,35-44,0,1,8
+2,FALSE,3,3,1,2015,NYC,Asian/ Pacific Islander,Male,35-44,0,6,1
+1,FALSE,4,3,1,2015,NYC,Asian/ Pacific Islander,Female,45-54,0,4,6
+2,FALSE,4,3,1,2015,NYC,Asian/ Pacific Islander,Male,45-54,0,20,2
+1,FALSE,5,3,1,2015,NYC,Asian/ Pacific Islander,Female,55-64,0,5,3
+2,FALSE,5,3,1,2015,NYC,Asian/ Pacific Islander,Male,55-64,0,27,3
+1,FALSE,6,3,1,2015,NYC,Asian/ Pacific Islander,Female,65-74,0,5,1
+2,FALSE,6,3,1,2015,NYC,Asian/ Pacific Islander,Male,65-74,2,11,3
+1,FALSE,7,3,1,2015,NYC,Asian/ Pacific Islander,Female,75-84,0,9,6
+2,FALSE,7,3,1,2015,NYC,Asian/ Pacific Islander,Male,75-84,0,7,3
+1,FALSE,8,3,1,2015,NYC,Asian/ Pacific Islander,Female,85+,0,3,1
+2,FALSE,8,3,1,2015,NYC,Asian/ Pacific Islander,Male,85+,0,3,1
+1,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Female,<1,0,0,0
+2,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Male,<1,0,0,0
+1,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Female,Total,0,29,34
+2,FALSE,FALSE,3,1,2015,NYC,Asian/ Pacific Islander,Male,Total,8,79,34
+1,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Female,19-Oct,0,2,0
+2,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Male,19-Oct,0,0,0
+1,FALSE,1,1,1,2015,NYC,White Non Hispanic,Female,20-24,0,1,3
+2,FALSE,1,1,1,2015,NYC,White Non Hispanic,Male,20-24,0,5,3
+1,FALSE,2,1,1,2015,NYC,White Non Hispanic,Female,25-34,0,7,8
+2,FALSE,2,1,1,2015,NYC,White Non Hispanic,Male,25-34,5,11,17
+1,FALSE,3,1,1,2015,NYC,White Non Hispanic,Female,35-44,2,14,15
+2,FALSE,3,1,1,2015,NYC,White Non Hispanic,Male,35-44,5,53,26
+1,FALSE,4,1,1,2015,NYC,White Non Hispanic,Female,45-54,1,22,19
+2,FALSE,4,1,1,2015,NYC,White Non Hispanic,Male,45-54,6,119,38
+1,FALSE,5,1,1,2015,NYC,White Non Hispanic,Female,55-64,0,41,20
+2,FALSE,5,1,1,2015,NYC,White Non Hispanic,Male,55-64,7,164,42
+1,FALSE,6,1,1,2015,NYC,White Non Hispanic,Female,65-74,1,36,16
+2,FALSE,6,1,1,2015,NYC,White Non Hispanic,Male,65-74,10,90,27
+1,FALSE,7,1,1,2015,NYC,White Non Hispanic,Female,75-84,0,27,3
+2,FALSE,7,1,1,2015,NYC,White Non Hispanic,Male,75-84,1,45,17
+1,FALSE,8,1,1,2015,NYC,White Non Hispanic,Female,85+,0,14,3
+2,FALSE,8,1,1,2015,NYC,White Non Hispanic,Male,85+,0,18,2
+1,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Female,<1,0,0,0
+2,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Female,Total,4,164,87
+2,FALSE,FALSE,1,1,2015,NYC,White Non Hispanic,Male,Total,34,505,172
+1,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Female,9-Jan,1,0,0
+2,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Female,19-Oct,2,0,1
+2,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Male,19-Oct,22,0,1
+1,FALSE,1,2,2,2015,ROS,Black Non Hispanic,Female,20-24,0,1,1
+2,FALSE,1,2,2,2015,ROS,Black Non Hispanic,Male,20-24,24,0,7
+1,FALSE,2,2,2,2015,ROS,Black Non Hispanic,Female,25-34,0,6,2
+2,FALSE,2,2,2,2015,ROS,Black Non Hispanic,Male,25-34,43,7,10
+1,FALSE,3,2,2,2015,ROS,Black Non Hispanic,Female,35-44,1,8,0
+2,FALSE,3,2,2,2015,ROS,Black Non Hispanic,Male,35-44,17,11,12
+1,FALSE,4,2,2,2015,ROS,Black Non Hispanic,Female,45-54,1,18,1
+2,FALSE,4,2,2,2015,ROS,Black Non Hispanic,Male,45-54,4,34,7
+1,FALSE,5,2,2,2015,ROS,Black Non Hispanic,Female,55-64,0,14,2
+2,FALSE,5,2,2,2015,ROS,Black Non Hispanic,Male,55-64,3,34,3
+1,FALSE,6,2,2,2015,ROS,Black Non Hispanic,Female,65-74,0,13,1
+2,FALSE,6,2,2,2015,ROS,Black Non Hispanic,Male,65-74,3,27,2
+1,FALSE,7,2,2,2015,ROS,Black Non Hispanic,Female,75-84,0,7,0
+2,FALSE,7,2,2,2015,ROS,Black Non Hispanic,Male,75-84,0,11,0
+1,FALSE,8,2,2,2015,ROS,Black Non Hispanic,Female,85+,0,1,0
+2,FALSE,8,2,2,2015,ROS,Black Non Hispanic,Male,85+,1,3,1
+1,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Female,<1,0,0,0
+2,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Female,Total,5,68,8
+2,FALSE,FALSE,2,2,2015,ROS,Black Non Hispanic,Male,Total,117,127,43
+1,FALSE,FALSE,4,2,2015,ROS,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,4,2,2015,ROS,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,2,2015,ROS,Hispanic,Female,19-Oct,0,1,3
+2,FALSE,FALSE,4,2,2015,ROS,Hispanic,Male,19-Oct,1,1,2
+1,FALSE,1,4,2,2015,ROS,Hispanic,Female,20-24,2,0,3
+2,FALSE,1,4,2,2015,ROS,Hispanic,Male,20-24,6,1,4
+1,FALSE,2,4,2,2015,ROS,Hispanic,Female,25-34,1,1,1
+2,FALSE,2,4,2,2015,ROS,Hispanic,Male,25-34,9,13,10
+1,FALSE,3,4,2,2015,ROS,Hispanic,Female,35-44,0,5,0
+2,FALSE,3,4,2,2015,ROS,Hispanic,Male,35-44,2,19,5
+1,FALSE,4,4,2,2015,ROS,Hispanic,Female,45-54,0,5,2
+2,FALSE,4,4,2,2015,ROS,Hispanic,Male,45-54,0,32,4
+1,FALSE,5,4,2,2015,ROS,Hispanic,Female,55-64,0,12,0
+2,FALSE,5,4,2,2015,ROS,Hispanic,Male,55-64,2,27,7
+1,FALSE,6,4,2,2015,ROS,Hispanic,Female,65-74,0,7,0
+2,FALSE,6,4,2,2015,ROS,Hispanic,Male,65-74,1,16,2
+1,FALSE,7,4,2,2015,ROS,Hispanic,Female,75-84,0,4,0
+2,FALSE,7,4,2,2015,ROS,Hispanic,Male,75-84,1,8,2
+1,FALSE,8,4,2,2015,ROS,Hispanic,Female,85+,0,1,0
+2,FALSE,8,4,2,2015,ROS,Hispanic,Male,85+,0,2,0
+1,FALSE,FALSE,4,2,2015,ROS,Hispanic,Female,<1,0,0,0
+2,FALSE,FALSE,4,2,2015,ROS,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,2,2015,ROS,Hispanic,Female,Total,3,36,9
+2,FALSE,FALSE,4,2,2015,ROS,Hispanic,Male,Total,22,119,36
+1,FALSE,FALSE,5,2,2015,ROS,Other,Female,9-Jan,0,0,0
+2,FALSE,FALSE,5,2,2015,ROS,Other,Male,9-Jan,0,0,0
+1,FALSE,FALSE,5,2,2015,ROS,Other,Female,19-Oct,0,0,0
+2,FALSE,FALSE,5,2,2015,ROS,Other,Male,19-Oct,0,0,1
+2,FALSE,1,5,2,2015,ROS,Other,Male,20-24,0,0,0
+1,FALSE,2,5,2,2015,ROS,Other,Female,25-34,0,0,0
+2,FALSE,2,5,2,2015,ROS,Other,Male,25-34,1,0,2
+1,FALSE,3,5,2,2015,ROS,Other,Female,35-44,0,1,2
+2,FALSE,3,5,2,2015,ROS,Other,Male,35-44,2,0,1
+1,FALSE,4,5,2,2015,ROS,Other,Female,45-54,0,3,1
+2,FALSE,4,5,2,2015,ROS,Other,Male,45-54,1,7,0
+1,FALSE,5,5,2,2015,ROS,Other,Female,55-64,0,2,2
+2,FALSE,5,5,2,2015,ROS,Other,Male,55-64,1,6,0
+1,FALSE,6,5,2,2015,ROS,Other,Female,65-74,0,1,0
+2,FALSE,6,5,2,2015,ROS,Other,Male,65-74,0,3,1
+1,FALSE,7,5,2,2015,ROS,Other,Female,75-84,0,0,0
+2,FALSE,7,5,2,2015,ROS,Other,Male,75-84,0,0,0
+1,FALSE,8,5,2,2015,ROS,Other,Female,85+,0,0,0
+2,FALSE,8,5,2,2015,ROS,Other,Male,85+,0,0,0
+1,FALSE,FALSE,5,2,2015,ROS,Other,Female,<1,0,0,0
+2,FALSE,FALSE,5,2,2015,ROS,Other,Male,<1,0,0,0
+1,FALSE,FALSE,5,2,2015,ROS,Other,Female,Total,0,7,5
+2,FALSE,FALSE,5,2,2015,ROS,Other,Male,Total,5,16,5
+1,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Female,9-Jan,0,0,0
+2,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Male,9-Jan,0,0,0
+1,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Female,19-Oct,0,0,0
+2,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Male,19-Oct,0,0,1
+1,FALSE,1,3,2,2015,ROS,Asian/ Pacific Islander,Female,20-24,0,0,1
+2,FALSE,1,3,2,2015,ROS,Asian/ Pacific Islander,Male,20-24,2,0,5
+1,FALSE,2,3,2,2015,ROS,Asian/ Pacific Islander,Female,25-34,0,1,2
+2,FALSE,2,3,2,2015,ROS,Asian/ Pacific Islander,Male,25-34,1,0,1
+1,FALSE,3,3,2,2015,ROS,Asian/ Pacific Islander,Female,35-44,0,2,1
+2,FALSE,3,3,2,2015,ROS,Asian/ Pacific Islander,Male,35-44,0,3,2
+1,FALSE,4,3,2,2015,ROS,Asian/ Pacific Islander,Female,45-54,0,2,0
+2,FALSE,4,3,2,2015,ROS,Asian/ Pacific Islander,Male,45-54,2,12,5
+1,FALSE,5,3,2,2015,ROS,Asian/ Pacific Islander,Female,55-64,0,1,5
+2,FALSE,5,3,2,2015,ROS,Asian/ Pacific Islander,Male,55-64,0,5,4
+1,FALSE,6,3,2,2015,ROS,Asian/ Pacific Islander,Female,65-74,0,3,0
+2,FALSE,6,3,2,2015,ROS,Asian/ Pacific Islander,Male,65-74,0,7,2
+1,FALSE,7,3,2,2015,ROS,Asian/ Pacific Islander,Female,75-84,0,3,0
+2,FALSE,7,3,2,2015,ROS,Asian/ Pacific Islander,Male,75-84,0,1,0
+1,FALSE,8,3,2,2015,ROS,Asian/ Pacific Islander,Female,85+,0,1,0
+2,FALSE,8,3,2,2015,ROS,Asian/ Pacific Islander,Male,85+,0,0,0
+1,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Female,<1,0,0,0
+2,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Male,<1,0,0,0
+1,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Female,Total,0,13,9
+2,FALSE,FALSE,3,2,2015,ROS,Asian/ Pacific Islander,Male,Total,5,28,20
+1,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Female,19-Oct,3,1,11
+2,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Male,19-Oct,14,4,36
+1,FALSE,1,1,2,2015,ROS,White Non Hispanic,Female,20-24,2,3,14
+2,FALSE,1,1,2,2015,ROS,White Non Hispanic,Male,20-24,18,19,42
+1,FALSE,2,1,2,2015,ROS,White Non Hispanic,Female,25-34,6,23,28
+2,FALSE,2,1,2,2015,ROS,White Non Hispanic,Male,25-34,38,64,98
+1,FALSE,3,1,2,2015,ROS,White Non Hispanic,Female,35-44,5,42,36
+2,FALSE,3,1,2,2015,ROS,White Non Hispanic,Male,35-44,44,124,115
+1,FALSE,4,1,2,2015,ROS,White Non Hispanic,Female,45-54,9,142,67
+2,FALSE,4,1,2,2015,ROS,White Non Hispanic,Male,45-54,69,305,162
+1,FALSE,5,1,2,2015,ROS,White Non Hispanic,Female,55-64,9,177,51
+2,FALSE,5,1,2,2015,ROS,White Non Hispanic,Male,55-64,74,522,159
+1,FALSE,6,1,2,2015,ROS,White Non Hispanic,Female,65-74,5,129,22
+2,FALSE,6,1,2,2015,ROS,White Non Hispanic,Male,65-74,52,323,84
+1,FALSE,7,1,2,2015,ROS,White Non Hispanic,Female,75-84,3,115,10
+2,FALSE,7,1,2,2015,ROS,White Non Hispanic,Male,75-84,26,169,43
+1,FALSE,8,1,2,2015,ROS,White Non Hispanic,Female,85+,1,45,6
+2,FALSE,8,1,2,2015,ROS,White Non Hispanic,Male,85+,15,57,24
+1,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Female,<1,0,0,0
+2,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Male,<1,1,0,0
+1,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Female,Total,43,677,245
+2,FALSE,FALSE,1,2,2015,ROS,White Non Hispanic,Male,Total,351,"1,587",763
+1,8,2,2,1,2014,NYC,Black Non Hispanic,Female,25-34,0,0,0
+2,8,1,4,1,2014,NYC,Hispanic,Male,20-24,62,11,22
+1,8,2,4,1,2014,NYC,Hispanic,Female,25-34,4,23,30
+2,8,2,4,1,2014,NYC,Hispanic,Male,25-34,67,53,76
+1,8,3,4,1,2014,NYC,Hispanic,Female,35-44,3,35,19
+2,8,1,2,2,2014,ROS,Black Non Hispanic,Male,20-24,0,0,0
+2,8,3,4,1,2014,NYC,Hispanic,Male,35-44,36,143,58
+1,8,4,4,1,2014,NYC,Hispanic,Female,45-54,1,75,31
+2,8,4,4,1,2014,NYC,Hispanic,Male,45-54,31,311,69
+1,8,5,4,1,2014,NYC,Hispanic,Female,55-64,2,179,32
+2,8,5,4,1,2014,NYC,Hispanic,Male,55-64,12,479,58
+1,8,6,4,1,2014,NYC,Hispanic,Female,65-74,1,99,13
+2,8,6,4,1,2014,NYC,Hispanic,Male,65-74,9,293,35
+1,8,7,4,1,2014,NYC,Hispanic,Female,75-84,0,90,7
+2,8,7,4,1,2014,NYC,Hispanic,Male,75-84,2,94,15
+1,8,8,4,1,2014,NYC,Hispanic,Female,85+,0,24,8
+2,8,8,4,1,2014,NYC,Hispanic,Male,85+,3,23,10
+1,8,FALSE,4,1,2014,NYC,Hispanic,Female,<1,0,0,0
+2,8,FALSE,4,1,2014,NYC,Hispanic,Male,<1,0,0,0
+1,8,FALSE,4,1,2014,NYC,Hispanic,Female,Total,16,529,158
+2,8,FALSE,4,1,2014,NYC,Hispanic,Male,Total,240,"1,411",355
+2,8,6,5,1,2014,NYC,Other,Male,65-74,1,0,1
+1,8,8,5,1,2014,NYC,Other,Female,85+,0,0,0
+2,8,8,5,1,2014,NYC,Other,Male,85+,0,0,0
+1,8,FALSE,5,1,2014,NYC,Other,Female,Total,0,0,0
+2,8,FALSE,5,1,2014,NYC,Other,Male,Total,1,0,1
+2,8,6,1,1,2014,NYC,White Non Hispanic,Male,65-74,0,0,0
+2,8,7,1,1,2014,NYC,White Non Hispanic,Male,75-84,0,0,0
+1,8,8,1,1,2014,NYC,White Non Hispanic,Female,85+,0,0,0
+1,8,FALSE,1,1,2014,NYC,White Non Hispanic,Female,Total,0,0,0
+2,8,FALSE,1,2,2014,ROS,White Non Hispanic,Male,Total,1,3,4
+1,8,FALSE,1,2,2014,ROS,White Non Hispanic,Female,Total,0,0,1
+2,8,FALSE,1,2,2014,ROS,White Non Hispanic,Male,<1,0,0,0
+2,8,8,1,2,2014,ROS,White Non Hispanic,Male,85+,0,0,0
+1,8,8,1,2,2014,ROS,White Non Hispanic,Female,85+,0,0,0
+2,8,7,1,2,2014,ROS,White Non Hispanic,Male,75-84,1,0,1
+1,8,7,1,2,2014,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,8,6,1,2,2014,ROS,White Non Hispanic,Male,65-74,0,0,1
+1,8,6,1,2,2014,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,8,5,1,2,2014,ROS,White Non Hispanic,Male,55-64,0,1,0
+1,8,5,1,2,2014,ROS,White Non Hispanic,Female,55-64,0,0,1
+2,8,4,1,2,2014,ROS,White Non Hispanic,Male,45-54,0,2,1
+1,8,4,1,2,2014,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,8,3,1,2,2014,ROS,White Non Hispanic,Male,35-44,0,0,0
+2,8,2,1,2,2014,ROS,White Non Hispanic,Male,25-34,0,0,1
+2,8,FALSE,1,2,2014,ROS,White Non Hispanic,Male,9-Jan,0,0,0
+2,8,FALSE,3,2,2014,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,8,FALSE,3,2,2014,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+2,8,8,3,2,2014,ROS,Asian/ Pacific Islander,Male,85+,0,0,0
+1,8,7,3,2,2014,ROS,Asian/ Pacific Islander,Female,75-84,0,0,0
+2,8,FALSE,5,2,2014,ROS,Other,Male,Total,0,7,2
+1,8,FALSE,5,2,2014,ROS,Other,Female,Total,0,2,0
+2,8,FALSE,5,2,2014,ROS,Other,Male,<1,0,0,0
+1,8,FALSE,5,2,2014,ROS,Other,Female,<1,0,0,0
+2,8,8,5,2,2014,ROS,Other,Male,85+,0,0,0
+1,8,8,5,2,2014,ROS,Other,Female,85+,0,0,0
+2,8,FALSE,1,1,2014,NYC,White Non Hispanic,Male,Total,0,0,0
+2,8,7,5,2,2014,ROS,Other,Male,75-84,0,0,0
+1,8,7,5,2,2014,ROS,Other,Female,75-84,0,0,0
+2,8,6,5,2,2014,ROS,Other,Male,65-74,0,1,1
+1,8,6,5,2,2014,ROS,Other,Female,65-74,0,1,0
+2,8,5,5,2,2014,ROS,Other,Male,55-64,0,2,0
+1,8,5,5,2,2014,ROS,Other,Female,55-64,0,0,0
+2,8,4,5,2,2014,ROS,Other,Male,45-54,0,3,1
+1,8,4,5,2,2014,ROS,Other,Female,45-54,0,0,0
+2,8,3,5,2,2014,ROS,Other,Male,35-44,0,0,0
+2,8,2,5,2,2014,ROS,Other,Male,25-34,0,1,0
+1,8,2,5,2,2014,ROS,Other,Female,25-34,0,0,0
+1,8,1,5,2,2014,ROS,Other,Female,20-24,0,1,0
+2,8,FALSE,4,2,2014,ROS,Hispanic,Male,Total,535,"1,832",861
+1,8,FALSE,4,2,2014,ROS,Hispanic,Female,Total,59,783,271
+2,8,FALSE,4,2,2014,ROS,Hispanic,Male,<1,0,0,0
+1,8,FALSE,4,2,2014,ROS,Hispanic,Female,<1,0,0,0
+2,8,8,4,2,2014,ROS,Hispanic,Male,85+,16,58,23
+1,8,8,4,2,2014,ROS,Hispanic,Female,85+,2,66,6
+2,8,7,4,2,2014,ROS,Hispanic,Male,75-84,24,181,35
+1,8,7,4,2,2014,ROS,Hispanic,Female,75-84,1,106,7
+2,8,6,4,2,2014,ROS,Hispanic,Male,65-74,56,374,87
+1,8,6,4,2,2014,ROS,Hispanic,Female,65-74,6,154,21
+2,8,5,4,2,2014,ROS,Hispanic,Male,55-64,87,618,157
+1,8,5,4,2,2014,ROS,Hispanic,Female,55-64,9,211,49
+2,8,4,4,2,2014,ROS,Hispanic,Male,45-54,100,402,206
+1,8,4,4,2,2014,ROS,Hispanic,Female,45-54,14,162,74
+2,8,3,4,2,2014,ROS,Hispanic,Male,35-44,63,119,113
+1,8,3,4,2,2014,ROS,Hispanic,Female,35-44,4,47,48
+2,8,2,4,2,2014,ROS,Hispanic,Male,25-34,93,62,117
+1,8,2,4,2,2014,ROS,Hispanic,Female,25-34,14,29,40
+2,8,1,4,2,2014,ROS,Hispanic,Male,20-24,70,17,81
+1,8,1,4,2,2014,ROS,Hispanic,Female,20-24,7,5,11
+2,8,FALSE,4,2,2014,ROS,Hispanic,Male,19-Oct,26,0,41
+1,8,FALSE,4,2,2014,ROS,Hispanic,Female,19-Oct,2,3,15
+2,8,FALSE,4,2,2014,ROS,Hispanic,Male,9-Jan,0,1,1
+1,8,FALSE,4,2,2014,ROS,Hispanic,Female,9-Jan,0,0,0
+2,8,FALSE,2,2,2014,ROS,Black Non Hispanic,Male,Total,0,0,0
+1,8,FALSE,2,2,2014,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,8,8,2,2,2014,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,8,8,2,2,2014,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,8,7,2,2,2014,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,8,7,2,2,2014,ROS,Black Non Hispanic,Female,75-84,0,0,0
+1,8,6,2,2,2014,ROS,Black Non Hispanic,Female,65-74,0,0,0
+2,8,5,2,2,2014,ROS,Black Non Hispanic,Male,55-64,0,0,0
+1,8,5,2,2,2014,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,8,4,2,2,2014,ROS,Black Non Hispanic,Male,45-54,0,0,0
+1,8,4,2,2,2014,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,8,3,2,2,2014,ROS,Black Non Hispanic,Male,35-44,0,0,0
+2,8,2,2,2,2014,ROS,Black Non Hispanic,Male,25-34,0,0,0
+2,8,FALSE,2,2,2014,ROS,Black Non Hispanic,Male,19-Oct,0,0,0
+1,8,FALSE,4,1,2014,NYC,Hispanic,Female,9-Jan,0,0,0
+2,8,FALSE,4,1,2014,NYC,Hispanic,Male,9-Jan,0,0,1
+1,8,FALSE,4,1,2014,NYC,Hispanic,Female,19-Oct,2,1,11
+2,8,FALSE,4,1,2014,NYC,Hispanic,Male,19-Oct,18,4,11
+1,8,1,4,1,2014,NYC,Hispanic,Female,20-24,3,3,7
+1,8,FALSE,2,1,2014,NYC,Black Non Hispanic,Female,Total,0,0,0
+1,8,3,2,1,2014,NYC,Black Non Hispanic,Female,35-44,0,0,0
+1,7,FALSE,4,2,2013,ROS,Hispanic,Female,9-Jan,0,0,0
+1,7,6,2,1,2013,NYC,Black Non Hispanic,Female,65-74,0,0,0
+1,7,FALSE,2,1,2013,NYC,Black Non Hispanic,Female,Total,0,0,0
+1,7,FALSE,4,1,2013,NYC,Hispanic,Female,9-Jan,0,0,1
+2,7,FALSE,4,1,2013,NYC,Hispanic,Male,9-Jan,2,0,0
+1,7,FALSE,4,1,2013,NYC,Hispanic,Female,19-Oct,1,3,7
+2,7,FALSE,4,1,2013,NYC,Hispanic,Male,19-Oct,21,1,16
+1,7,1,4,1,2013,NYC,Hispanic,Female,20-24,3,2,9
+2,7,1,4,1,2013,NYC,Hispanic,Male,20-24,43,4,19
+1,7,2,4,1,2013,NYC,Hispanic,Female,25-34,3,22,20
+2,7,2,4,1,2013,NYC,Hispanic,Male,25-34,78,46,74
+1,7,3,4,1,2013,NYC,Hispanic,Female,35-44,2,35,24
+2,7,3,4,1,2013,NYC,Hispanic,Male,35-44,40,131,66
+1,7,4,4,1,2013,NYC,Hispanic,Female,45-54,5,114,23
+2,7,4,4,1,2013,NYC,Hispanic,Male,45-54,22,349,63
+1,7,5,4,1,2013,NYC,Hispanic,Female,55-64,2,162,29
+2,7,5,4,1,2013,NYC,Hispanic,Male,55-64,12,456,53
+1,7,6,4,1,2013,NYC,Hispanic,Female,65-74,0,101,13
+2,7,6,4,1,2013,NYC,Hispanic,Male,65-74,7,279,44
+1,7,7,4,1,2013,NYC,Hispanic,Female,75-84,0,63,10
+2,7,7,4,1,2013,NYC,Hispanic,Male,75-84,5,106,24
+1,7,8,4,1,2013,NYC,Hispanic,Female,85+,0,32,3
+2,7,8,4,1,2013,NYC,Hispanic,Male,85+,3,28,11
+1,7,FALSE,4,1,2013,NYC,Hispanic,Female,<1,0,0,0
+2,7,FALSE,4,1,2013,NYC,Hispanic,Male,<1,0,0,0
+1,7,FALSE,4,1,2013,NYC,Hispanic,Female,Total,16,534,139
+2,7,FALSE,4,1,2013,NYC,Hispanic,Male,Total,233,"1,400",370
+2,7,7,5,1,2013,NYC,Other,Male,75-84,0,0,0
+2,7,FALSE,5,1,2013,NYC,Other,Male,Total,0,0,0
+1,7,6,1,1,2013,NYC,White Non Hispanic,Female,65-74,0,0,0
+2,7,6,1,1,2013,NYC,White Non Hispanic,Male,65-74,0,0,0
+2,7,8,1,1,2013,NYC,White Non Hispanic,Male,85+,0,0,0
+1,7,FALSE,1,1,2013,NYC,White Non Hispanic,Female,Total,0,0,0
+2,7,FALSE,1,1,2013,NYC,White Non Hispanic,Male,Total,0,0,0
+2,7,3,2,2,2013,ROS,Black Non Hispanic,Male,35-44,0,0,0
+1,7,4,2,2,2013,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,7,4,2,2,2013,ROS,Black Non Hispanic,Male,45-54,0,1,0
+1,7,5,2,2,2013,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,7,5,2,2,2013,ROS,Black Non Hispanic,Male,55-64,0,0,1
+1,7,6,2,2,2013,ROS,Black Non Hispanic,Female,65-74,0,0,0
+1,7,7,2,2,2013,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,7,7,2,2,2013,ROS,Black Non Hispanic,Male,75-84,0,1,0
+1,7,8,2,2,2013,ROS,Black Non Hispanic,Female,85+,0,0,0
+1,7,FALSE,2,2,2013,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,7,FALSE,2,2,2013,ROS,Black Non Hispanic,Male,Total,0,2,1
+2,7,FALSE,4,2,2013,ROS,Hispanic,Male,9-Jan,1,0,1
+1,7,FALSE,4,2,2013,ROS,Hispanic,Female,19-Oct,0,0,16
+2,7,FALSE,4,2,2013,ROS,Hispanic,Male,19-Oct,26,4,33
+1,7,1,4,2,2013,ROS,Hispanic,Female,20-24,7,2,17
+2,7,1,4,2,2013,ROS,Hispanic,Male,20-24,63,16,65
+1,7,2,4,2,2013,ROS,Hispanic,Female,25-34,10,18,32
+2,7,2,4,2,2013,ROS,Hispanic,Male,25-34,83,77,125
+1,7,3,4,2,2013,ROS,Hispanic,Female,35-44,9,62,35
+2,7,3,4,2,2013,ROS,Hispanic,Male,35-44,60,132,119
+1,7,4,4,2,2013,ROS,Hispanic,Female,45-54,17,177,64
+2,7,4,4,2,2013,ROS,Hispanic,Male,45-54,102,417,206
+1,7,5,4,2,2013,ROS,Hispanic,Female,55-64,11,208,69
+2,7,5,4,2,2013,ROS,Hispanic,Male,55-64,80,614,152
+1,7,6,4,2,2013,ROS,Hispanic,Female,65-74,3,159,13
+2,7,6,4,2,2013,ROS,Hispanic,Male,65-74,48,319,89
+1,7,7,4,2,2013,ROS,Hispanic,Female,75-84,3,124,7
+2,7,7,4,2,2013,ROS,Hispanic,Male,75-84,40,162,53
+1,7,8,4,2,2013,ROS,Hispanic,Female,85+,5,47,6
+2,7,8,4,2,2013,ROS,Hispanic,Male,85+,10,62,20
+1,7,FALSE,4,2,2013,ROS,Hispanic,Female,<1,0,0,0
+2,7,FALSE,4,2,2013,ROS,Hispanic,Male,<1,0,0,0
+1,7,FALSE,4,2,2013,ROS,Hispanic,Female,Total,65,797,259
+2,7,FALSE,4,2,2013,ROS,Hispanic,Male,Total,513,"1,803",863
+2,7,2,5,2,2013,ROS,Other,Male,25-34,0,0,0
+2,7,3,5,2,2013,ROS,Other,Male,35-44,0,0,0
+1,7,4,5,2,2013,ROS,Other,Female,45-54,0,0,0
+2,7,4,5,2,2013,ROS,Other,Male,45-54,0,2,0
+1,7,5,5,2,2013,ROS,Other,Female,55-64,0,0,0
+2,7,5,5,2,2013,ROS,Other,Male,55-64,0,0,1
+1,7,6,5,2,2013,ROS,Other,Female,65-74,0,0,0
+2,7,6,5,2,2013,ROS,Other,Male,65-74,0,1,0
+2,7,FALSE,1,2,2013,ROS,White Non Hispanic,Male,Total,0,3,1
+1,7,FALSE,1,2,2013,ROS,White Non Hispanic,Female,Total,0,2,0
+2,7,FALSE,1,2,2013,ROS,White Non Hispanic,Male,<1,0,0,0
+1,7,FALSE,1,2,2013,ROS,White Non Hispanic,Female,<1,0,0,0
+2,7,8,1,2,2013,ROS,White Non Hispanic,Male,85+,0,0,0
+1,7,8,1,2,2013,ROS,White Non Hispanic,Female,85+,0,0,0
+2,7,7,1,2,2013,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,7,7,1,2,2013,ROS,White Non Hispanic,Female,75-84,0,1,0
+2,7,6,1,2,2013,ROS,White Non Hispanic,Male,65-74,0,1,0
+1,7,6,1,2,2013,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,7,5,1,2,2013,ROS,White Non Hispanic,Male,55-64,0,1,0
+1,7,5,1,2,2013,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,7,4,1,2,2013,ROS,White Non Hispanic,Male,45-54,0,0,1
+1,7,4,1,2,2013,ROS,White Non Hispanic,Female,45-54,0,1,0
+2,7,3,1,2,2013,ROS,White Non Hispanic,Male,35-44,0,1,0
+1,7,3,1,2,2013,ROS,White Non Hispanic,Female,35-44,0,0,0
+2,7,2,1,2,2013,ROS,White Non Hispanic,Male,25-34,0,0,0
+1,7,2,1,2,2013,ROS,White Non Hispanic,Female,25-34,0,0,0
+2,7,FALSE,3,2,2013,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,7,FALSE,3,2,2013,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+1,7,8,3,2,2013,ROS,Asian/ Pacific Islander,Female,85+,0,0,0
+2,7,5,3,2,2013,ROS,Asian/ Pacific Islander,Male,55-64,0,0,0
+2,7,FALSE,5,2,2013,ROS,Other,Male,Total,0,3,1
+1,7,FALSE,5,2,2013,ROS,Other,Female,Total,0,0,0
+2,7,FALSE,5,2,2013,ROS,Other,Male,<1,0,0,0
+1,7,FALSE,5,2,2013,ROS,Other,Female,<1,0,0,0
+2,7,8,5,2,2013,ROS,Other,Male,85+,0,0,0
+1,7,8,5,2,2013,ROS,Other,Female,85+,0,0,0
+2,7,7,5,2,2013,ROS,Other,Male,75-84,0,0,0
+1,7,7,5,2,2013,ROS,Other,Female,75-84,0,0,0
+2,6,2,5,2,2012,ROS,Other,Male,25-34,0,0,1
+2,6,FALSE,1,2,2012,ROS,White Non Hispanic,Male,Total,0,4,0
+1,6,FALSE,1,2,2012,ROS,White Non Hispanic,Female,Total,0,1,1
+1,6,FALSE,1,2,2012,ROS,White Non Hispanic,Female,<1,0,0,0
+2,6,8,1,2,2012,ROS,White Non Hispanic,Male,85+,0,0,0
+1,6,8,1,2,2012,ROS,White Non Hispanic,Female,85+,0,0,0
+2,6,7,1,2,2012,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,6,7,1,2,2012,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,6,6,1,2,2012,ROS,White Non Hispanic,Male,65-74,0,1,0
+1,6,6,1,2,2012,ROS,White Non Hispanic,Female,65-74,0,0,1
+2,6,5,1,2,2012,ROS,White Non Hispanic,Male,55-64,0,2,0
+1,6,5,1,2,2012,ROS,White Non Hispanic,Female,55-64,0,1,0
+2,6,4,1,2,2012,ROS,White Non Hispanic,Male,45-54,0,0,0
+1,6,4,1,2,2012,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,6,3,1,2,2012,ROS,White Non Hispanic,Male,35-44,0,0,0
+1,6,3,1,2,2012,ROS,White Non Hispanic,Female,35-44,0,0,0
+2,6,2,1,2,2012,ROS,White Non Hispanic,Male,25-34,0,1,0
+1,6,1,1,2,2012,ROS,White Non Hispanic,Female,20-24,0,0,0
+2,6,FALSE,1,2,2012,ROS,White Non Hispanic,Male,9-Jan,0,0,0
+1,6,FALSE,3,2,2012,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+1,6,5,3,2,2012,ROS,Asian/ Pacific Islander,Female,55-64,0,0,0
+1,6,2,3,2,2012,ROS,Asian/ Pacific Islander,Female,25-34,0,0,0
+2,6,FALSE,5,2,2012,ROS,Other,Male,Total,0,1,1
+1,6,FALSE,5,2,2012,ROS,Other,Female,Total,0,0,0
+2,6,FALSE,5,2,2012,ROS,Other,Male,<1,0,0,0
+1,6,FALSE,5,2,2012,ROS,Other,Female,<1,0,0,0
+2,6,8,5,2,2012,ROS,Other,Male,85+,0,0,0
+1,6,8,5,2,2012,ROS,Other,Female,85+,0,0,0
+2,6,7,5,2,2012,ROS,Other,Male,75-84,0,0,0
+1,6,7,5,2,2012,ROS,Other,Female,75-84,0,0,0
+2,6,6,5,2,2012,ROS,Other,Male,65-74,0,0,0
+1,6,6,5,2,2012,ROS,Other,Female,65-74,0,0,0
+2,6,5,5,2,2012,ROS,Other,Male,55-64,0,0,0
+1,6,5,5,2,2012,ROS,Other,Female,55-64,0,0,0
+2,6,4,5,2,2012,ROS,Other,Male,45-54,0,0,0
+2,6,3,5,2,2012,ROS,Other,Male,35-44,0,1,0
+2,6,FALSE,4,2,2012,ROS,Hispanic,Male,Total,597,"1,719",904
+1,6,FALSE,4,2,2012,ROS,Hispanic,Female,Total,51,729,236
+2,6,FALSE,4,2,2012,ROS,Hispanic,Male,<1,0,0,0
+1,6,FALSE,4,2,2012,ROS,Hispanic,Female,<1,0,1,0
+2,6,8,4,2,2012,ROS,Hispanic,Male,85+,12,40,17
+1,6,8,4,2,2012,ROS,Hispanic,Female,85+,2,51,4
+2,6,7,4,2,2012,ROS,Hispanic,Male,75-84,43,158,51
+1,6,7,4,2,2012,ROS,Hispanic,Female,75-84,2,101,8
+2,6,6,4,2,2012,ROS,Hispanic,Male,65-74,57,317,89
+1,6,6,4,2,2012,ROS,Hispanic,Female,65-74,3,121,20
+2,6,5,4,2,2012,ROS,Hispanic,Male,55-64,87,569,161
+1,6,5,4,2,2012,ROS,Hispanic,Female,55-64,7,213,42
+2,6,4,4,2,2012,ROS,Hispanic,Male,45-54,89,439,201
+1,6,4,4,2,2012,ROS,Hispanic,Female,45-54,11,174,70
+2,6,3,4,2,2012,ROS,Hispanic,Male,35-44,79,120,143
+1,6,3,4,2,2012,ROS,Hispanic,Female,35-44,8,54,28
+2,6,2,4,2,2012,ROS,Hispanic,Male,25-34,103,62,131
+1,6,2,4,2,2012,ROS,Hispanic,Female,25-34,9,9,25
+2,6,1,4,2,2012,ROS,Hispanic,Male,20-24,82,12,64
+1,6,1,4,2,2012,ROS,Hispanic,Female,20-24,6,4,21
+2,6,FALSE,4,2,2012,ROS,Hispanic,Male,19-Oct,44,2,47
+1,6,FALSE,4,2,2012,ROS,Hispanic,Female,19-Oct,3,1,18
+2,6,FALSE,4,2,2012,ROS,Hispanic,Male,9-Jan,1,0,0
+1,6,FALSE,4,2,2012,ROS,Hispanic,Female,9-Jan,0,0,0
+2,6,FALSE,2,2,2012,ROS,Black Non Hispanic,Male,Total,1,1,0
+1,6,FALSE,2,2,2012,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,6,FALSE,2,2,2012,ROS,Black Non Hispanic,Male,<1,0,0,0
+2,6,8,2,2,2012,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,6,8,2,2,2012,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,6,7,2,2,2012,ROS,Black Non Hispanic,Male,75-84,0,0,0
+2,6,6,2,2,2012,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,6,6,2,2,2012,ROS,Black Non Hispanic,Female,65-74,0,0,0
+1,6,5,2,2,2012,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,6,4,2,2,2012,ROS,Black Non Hispanic,Male,45-54,0,1,0
+1,6,4,2,2,2012,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,6,3,2,2,2012,ROS,Black Non Hispanic,Male,35-44,1,0,0
+2,6,1,2,2,2012,ROS,Black Non Hispanic,Male,20-24,0,0,0
+2,6,FALSE,2,2,2012,ROS,Black Non Hispanic,Male,9-Jan,0,0,0
+1,6,FALSE,1,1,2012,NYC,White Non Hispanic,Female,Total,0,0,0
+1,6,8,1,1,2012,NYC,White Non Hispanic,Female,85+,0,0,0
+2,6,FALSE,5,1,2012,NYC,Other,Male,Total,0,0,0
+2,6,8,5,1,2012,NYC,Other,Male,85+,0,0,0
+2,6,FALSE,4,1,2012,NYC,Hispanic,Male,Total,279,"1,329",363
+1,6,FALSE,4,1,2012,NYC,Hispanic,Female,Total,20,522,151
+2,6,FALSE,4,1,2012,NYC,Hispanic,Male,<1,0,0,0
+1,6,FALSE,4,1,2012,NYC,Hispanic,Female,<1,0,0,0
+2,6,8,4,1,2012,NYC,Hispanic,Male,85+,4,18,10
+1,6,8,4,1,2012,NYC,Hispanic,Female,85+,0,22,2
+2,6,7,4,1,2012,NYC,Hispanic,Male,75-84,3,78,20
+1,6,7,4,1,2012,NYC,Hispanic,Female,75-84,0,61,11
+2,6,6,4,1,2012,NYC,Hispanic,Male,65-74,8,238,27
+1,6,6,4,1,2012,NYC,Hispanic,Female,65-74,2,95,12
+2,6,5,4,1,2012,NYC,Hispanic,Male,55-64,13,460,62
+1,6,5,4,1,2012,NYC,Hispanic,Female,55-64,1,167,28
+2,6,4,4,1,2012,NYC,Hispanic,Male,45-54,25,340,84
+1,6,4,4,1,2012,NYC,Hispanic,Female,45-54,1,118,34
+2,6,3,4,1,2012,NYC,Hispanic,Male,35-44,31,137,60
+1,6,3,4,1,2012,NYC,Hispanic,Female,35-44,6,34,17
+2,6,2,4,1,2012,NYC,Hispanic,Male,25-34,86,50,61
+1,6,2,4,1,2012,NYC,Hispanic,Female,25-34,6,21,26
+2,6,1,4,1,2012,NYC,Hispanic,Male,20-24,73,7,26
+1,6,1,4,1,2012,NYC,Hispanic,Female,20-24,3,4,10
+2,6,FALSE,4,1,2012,NYC,Hispanic,Male,19-Oct,35,1,13
+1,6,FALSE,4,1,2012,NYC,Hispanic,Female,19-Oct,1,0,11
+2,6,FALSE,4,1,2012,NYC,Hispanic,Male,9-Jan,1,0,0
+1,6,FALSE,4,1,2012,NYC,Hispanic,Female,9-Jan,0,0,0
+2,6,FALSE,2,1,2012,NYC,Black Non Hispanic,Male,Total,0,1,0
+2,6,6,2,1,2012,NYC,Black Non Hispanic,Male,65-74,0,1,0
+2,5,6,4,2,2011,ROS,Hispanic,Male,65-74,46,260,69
+1,5,3,2,1,2011,NYC,Black Non Hispanic,Female,35-44,0,0,0
+2,5,3,2,1,2011,NYC,Black Non Hispanic,Male,35-44,0,0,0
+2,5,5,2,1,2011,NYC,Black Non Hispanic,Male,55-64,0,0,0
+2,5,7,2,1,2011,NYC,Black Non Hispanic,Male,75-84,0,0,0
+1,5,8,2,1,2011,NYC,Black Non Hispanic,Female,85+,0,0,0
+1,5,FALSE,2,1,2011,NYC,Black Non Hispanic,Female,Total,0,0,0
+2,5,FALSE,2,1,2011,NYC,Black Non Hispanic,Male,Total,0,0,0
+1,5,FALSE,4,1,2011,NYC,Hispanic,Female,9-Jan,0,0,0
+2,5,FALSE,4,1,2011,NYC,Hispanic,Male,9-Jan,0,0,0
+1,5,FALSE,4,1,2011,NYC,Hispanic,Female,19-Oct,0,0,7
+2,5,FALSE,4,1,2011,NYC,Hispanic,Male,19-Oct,1,2,20
+1,5,1,4,1,2011,NYC,Hispanic,Female,20-24,0,4,9
+2,5,1,4,1,2011,NYC,Hispanic,Male,20-24,2,11,24
+1,5,2,4,1,2011,NYC,Hispanic,Female,25-34,0,14,28
+2,5,2,4,1,2011,NYC,Hispanic,Male,25-34,7,47,61
+1,5,3,4,1,2011,NYC,Hispanic,Female,35-44,2,42,13
+2,5,3,4,1,2011,NYC,Hispanic,Male,35-44,6,123,61
+1,5,4,4,1,2011,NYC,Hispanic,Female,45-54,0,112,23
+2,5,4,4,1,2011,NYC,Hispanic,Male,45-54,2,330,85
+1,5,5,4,1,2011,NYC,Hispanic,Female,55-64,1,114,10
+2,5,5,4,1,2011,NYC,Hispanic,Male,55-64,2,445,57
+1,5,6,4,1,2011,NYC,Hispanic,Female,65-74,0,99,17
+2,5,6,4,1,2011,NYC,Hispanic,Male,65-74,0,222,35
+1,5,7,4,1,2011,NYC,Hispanic,Female,75-84,0,64,7
+2,5,7,4,1,2011,NYC,Hispanic,Male,75-84,1,84,19
+1,5,8,4,1,2011,NYC,Hispanic,Female,85+,0,20,7
+2,5,8,4,1,2011,NYC,Hispanic,Male,85+,0,26,3
+1,5,FALSE,4,1,2011,NYC,Hispanic,Female,<1,0,0,0
+2,5,FALSE,4,1,2011,NYC,Hispanic,Male,<1,0,0,0
+1,5,FALSE,4,1,2011,NYC,Hispanic,Female,Total,3,469,121
+2,5,FALSE,4,1,2011,NYC,Hispanic,Male,Total,21,"1,290",365
+1,5,6,3,1,2011,NYC,Asian/ Pacific Islander,Female,65-74,0,0,0
+1,5,FALSE,3,1,2011,NYC,Asian/ Pacific Islander,Female,Total,0,0,0
+2,5,2,1,1,2011,NYC,White Non Hispanic,Male,25-34,0,0,0
+1,5,4,1,1,2011,NYC,White Non Hispanic,Female,45-54,0,0,0
+1,5,5,1,1,2011,NYC,White Non Hispanic,Female,55-64,0,0,0
+2,5,6,1,1,2011,NYC,White Non Hispanic,Male,65-74,0,0,0
+1,5,7,1,1,2011,NYC,White Non Hispanic,Female,75-84,0,0,0
+2,5,7,1,1,2011,NYC,White Non Hispanic,Male,75-84,0,0,0
+1,5,8,1,1,2011,NYC,White Non Hispanic,Female,85+,0,0,0
+1,5,FALSE,1,1,2011,NYC,White Non Hispanic,Female,Total,0,0,0
+2,5,FALSE,1,1,2011,NYC,White Non Hispanic,Male,Total,0,0,0
+2,5,FALSE,2,2,2011,ROS,Black Non Hispanic,Male,19-Oct,0,0,0
+2,5,2,2,2,2011,ROS,Black Non Hispanic,Male,25-34,0,0,0
+1,5,3,2,2,2011,ROS,Black Non Hispanic,Female,35-44,0,0,0
+1,5,4,2,2,2011,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,5,4,2,2,2011,ROS,Black Non Hispanic,Male,45-54,0,0,0
+2,5,5,2,2,2011,ROS,Black Non Hispanic,Male,55-64,0,0,0
+2,5,6,2,2,2011,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,5,7,2,2,2011,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,5,7,2,2,2011,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,5,8,2,2,2011,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,5,8,2,2,2011,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,5,FALSE,2,2,2011,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,5,FALSE,2,2,2011,ROS,Black Non Hispanic,Male,Total,0,0,0
+1,5,FALSE,4,2,2011,ROS,Hispanic,Female,9-Jan,1,0,0
+2,5,FALSE,4,2,2011,ROS,Hispanic,Male,9-Jan,1,0,0
+1,5,FALSE,4,2,2011,ROS,Hispanic,Female,19-Oct,10,2,20
+2,5,FALSE,4,2,2011,ROS,Hispanic,Male,19-Oct,42,3,46
+1,5,1,4,2,2011,ROS,Hispanic,Female,20-24,4,3,18
+2,5,1,4,2,2011,ROS,Hispanic,Male,20-24,57,17,76
+1,5,2,4,2,2011,ROS,Hispanic,Female,25-34,10,16,22
+2,5,2,4,2,2011,ROS,Hispanic,Male,25-34,83,51,132
+1,5,3,4,2,2011,ROS,Hispanic,Female,35-44,8,42,43
+2,5,3,4,2,2011,ROS,Hispanic,Male,35-44,64,133,155
+1,5,4,4,2,2011,ROS,Hispanic,Female,45-54,14,162,50
+2,5,4,4,2,2011,ROS,Hispanic,Male,45-54,103,371,203
+1,5,5,4,2,2011,ROS,Hispanic,Female,55-64,7,188,40
+2,5,5,4,2,2011,ROS,Hispanic,Male,55-64,79,549,145
+1,5,6,4,2,2011,ROS,Hispanic,Female,65-74,2,140,7
+1,5,7,4,2,2011,ROS,Hispanic,Female,75-84,0,138,8
+2,5,7,4,2,2011,ROS,Hispanic,Male,75-84,51,153,65
+1,5,8,4,2,2011,ROS,Hispanic,Female,85+,1,52,4
+2,5,8,4,2,2011,ROS,Hispanic,Male,85+,14,45,22
+1,5,FALSE,4,2,2011,ROS,Hispanic,Female,<1,0,0,0
+2,5,FALSE,4,2,2011,ROS,Hispanic,Male,<1,0,0,0
+1,5,FALSE,4,2,2011,ROS,Hispanic,Female,Total,57,743,212
+2,5,FALSE,4,2,2011,ROS,Hispanic,Male,Total,540,"1,582",913
+2,5,3,5,2,2011,ROS,Other,Male,35-44,0,0,0
+2,5,4,5,2,2011,ROS,Other,Male,45-54,0,1,0
+1,5,5,5,2,2011,ROS,Other,Female,55-64,0,0,0
+2,5,5,5,2,2011,ROS,Other,Male,55-64,0,1,0
+1,5,6,5,2,2011,ROS,Other,Female,65-74,0,1,0
+2,5,6,5,2,2011,ROS,Other,Male,65-74,0,0,0
+1,5,7,5,2,2011,ROS,Other,Female,75-84,0,0,0
+2,5,7,5,2,2011,ROS,Other,Male,75-84,0,0,0
+2,5,8,5,2,2011,ROS,Other,Male,85+,0,0,0
+2,5,FALSE,5,2,2011,ROS,Other,Male,<1,0,0,0
+1,5,FALSE,5,2,2011,ROS,Other,Female,Total,0,1,0
+2,5,FALSE,5,2,2011,ROS,Other,Male,Total,0,2,0
+1,5,FALSE,3,2,2011,ROS,Asian/ Pacific Islander,Female,19-Oct,0,0,1
+1,5,FALSE,3,2,2011,ROS,Asian/ Pacific Islander,Female,Total,0,0,1
+2,5,1,1,2,2011,ROS,White Non Hispanic,Male,20-24,0,0,0
+1,5,2,1,2,2011,ROS,White Non Hispanic,Female,25-34,0,0,0
+2,5,2,1,2,2011,ROS,White Non Hispanic,Male,25-34,1,0,1
+2,5,3,1,2,2011,ROS,White Non Hispanic,Male,35-44,0,0,1
+1,5,4,1,2,2011,ROS,White Non Hispanic,Female,45-54,0,1,1
+2,5,4,1,2,2011,ROS,White Non Hispanic,Male,45-54,0,0,0
+1,5,5,1,2,2011,ROS,White Non Hispanic,Female,55-64,0,1,0
+2,5,5,1,2,2011,ROS,White Non Hispanic,Male,55-64,0,4,1
+1,5,6,1,2,2011,ROS,White Non Hispanic,Female,65-74,0,2,1
+2,5,6,1,2,2011,ROS,White Non Hispanic,Male,65-74,0,2,0
+1,5,7,1,2,2011,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,5,7,1,2,2011,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,5,8,1,2,2011,ROS,White Non Hispanic,Female,85+,0,0,0
+2,5,8,1,2,2011,ROS,White Non Hispanic,Male,85+,0,0,0
+1,5,FALSE,1,2,2011,ROS,White Non Hispanic,Female,<1,0,0,0
+2,5,FALSE,1,2,2011,ROS,White Non Hispanic,Male,<1,0,0,0
+1,5,FALSE,1,2,2011,ROS,White Non Hispanic,Female,Total,0,4,2
+2,5,FALSE,1,2,2011,ROS,White Non Hispanic,Male,Total,1,6,3
+1,4,FALSE,4,2,2010,ROS,Hispanic,Female,<1,0,0,0
+2,4,8,4,2,2010,ROS,Hispanic,Male,85+,12,53,20
+1,4,8,4,2,2010,ROS,Hispanic,Female,85+,1,53,5
+2,4,7,4,2,2010,ROS,Hispanic,Male,75-84,40,161,55
+1,4,7,4,2,2010,ROS,Hispanic,Female,75-84,1,109,6
+2,4,6,4,2,2010,ROS,Hispanic,Male,65-74,56,260,72
+2,4,FALSE,1,2,2010,ROS,White Non Hispanic,Male,Total,0,4,0
+1,4,FALSE,1,2,2010,ROS,White Non Hispanic,Female,Total,0,2,0
+2,4,8,1,2,2010,ROS,White Non Hispanic,Male,85+,0,0,0
+1,4,8,1,2,2010,ROS,White Non Hispanic,Female,85+,0,0,0
+2,4,7,1,2,2010,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,4,7,1,2,2010,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,4,6,1,2,2010,ROS,White Non Hispanic,Male,65-74,0,0,0
+1,4,6,1,2,2010,ROS,White Non Hispanic,Female,65-74,0,1,0
+2,4,5,1,2,2010,ROS,White Non Hispanic,Male,55-64,0,2,0
+1,4,5,1,2,2010,ROS,White Non Hispanic,Female,55-64,0,1,0
+2,4,4,1,2,2010,ROS,White Non Hispanic,Male,45-54,0,1,0
+1,4,4,1,2,2010,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,4,3,1,2,2010,ROS,White Non Hispanic,Male,35-44,0,1,0
+2,4,2,1,2,2010,ROS,White Non Hispanic,Male,25-34,0,0,0
+2,4,FALSE,5,2,2010,ROS,Other,Male,Total,0,1,0
+1,4,FALSE,5,2,2010,ROS,Other,Female,Total,0,0,0
+2,4,FALSE,5,2,2010,ROS,Other,Male,<1,0,0,0
+1,4,FALSE,5,2,2010,ROS,Other,Female,<1,0,0,0
+2,4,8,5,2,2010,ROS,Other,Male,85+,0,0,0
+1,4,8,5,2,2010,ROS,Other,Female,85+,0,0,0
+2,4,7,5,2,2010,ROS,Other,Male,75-84,0,0,0
+1,4,7,5,2,2010,ROS,Other,Female,75-84,0,0,0
+2,4,6,5,2,2010,ROS,Other,Male,65-74,0,0,0
+1,4,6,5,2,2010,ROS,Other,Female,65-74,0,0,0
+2,4,5,5,2,2010,ROS,Other,Male,55-64,0,1,0
+1,4,5,5,2,2010,ROS,Other,Female,55-64,0,0,0
+2,4,4,5,2,2010,ROS,Other,Male,45-54,0,0,0
+2,4,3,5,2,2010,ROS,Other,Male,35-44,0,0,0
+2,4,FALSE,4,2,2010,ROS,Hispanic,Male,Total,550,"1,580",866
+1,4,FALSE,4,2,2010,ROS,Hispanic,Female,Total,59,652,187
+2,4,FALSE,4,2,2010,ROS,Hispanic,Male,<1,1,0,0
+1,4,6,4,2,2010,ROS,Hispanic,Female,65-74,6,128,15
+2,4,FALSE,2,1,2010,NYC,Black Non Hispanic,Male,19-Oct,1,0,0
+1,4,2,2,1,2010,NYC,Black Non Hispanic,Female,25-34,0,0,0
+1,4,4,2,1,2010,NYC,Black Non Hispanic,Female,45-54,0,0,0
+1,4,5,2,1,2010,NYC,Black Non Hispanic,Female,55-64,0,0,0
+2,4,5,2,1,2010,NYC,Black Non Hispanic,Male,55-64,0,0,0
+2,4,6,2,1,2010,NYC,Black Non Hispanic,Male,65-74,0,0,0
+1,4,7,2,1,2010,NYC,Black Non Hispanic,Female,75-84,0,0,0
+1,4,8,2,1,2010,NYC,Black Non Hispanic,Female,85+,0,0,0
+1,4,FALSE,2,1,2010,NYC,Black Non Hispanic,Female,Total,0,0,0
+2,4,FALSE,2,1,2010,NYC,Black Non Hispanic,Male,Total,1,0,0
+1,4,FALSE,4,1,2010,NYC,Hispanic,Female,9-Jan,0,0,0
+2,4,FALSE,4,1,2010,NYC,Hispanic,Male,9-Jan,0,0,0
+1,4,FALSE,4,1,2010,NYC,Hispanic,Female,19-Oct,0,0,5
+2,4,FALSE,4,1,2010,NYC,Hispanic,Male,19-Oct,1,1,11
+1,4,1,4,1,2010,NYC,Hispanic,Female,20-24,0,1,6
+2,4,1,4,1,2010,NYC,Hispanic,Male,20-24,4,6,25
+1,4,2,4,1,2010,NYC,Hispanic,Female,25-34,0,15,25
+2,4,2,4,1,2010,NYC,Hispanic,Male,25-34,6,38,49
+1,4,3,4,1,2010,NYC,Hispanic,Female,35-44,1,31,20
+2,4,3,4,1,2010,NYC,Hispanic,Male,35-44,0,118,65
+1,4,4,4,1,2010,NYC,Hispanic,Female,45-54,0,102,27
+2,4,4,4,1,2010,NYC,Hispanic,Male,45-54,5,339,84
+1,4,5,4,1,2010,NYC,Hispanic,Female,55-64,0,128,16
+2,4,5,4,1,2010,NYC,Hispanic,Male,55-64,5,377,64
+1,4,6,4,1,2010,NYC,Hispanic,Female,65-74,0,82,12
+2,4,6,4,1,2010,NYC,Hispanic,Male,65-74,0,206,21
+1,4,7,4,1,2010,NYC,Hispanic,Female,75-84,0,49,3
+2,4,7,4,1,2010,NYC,Hispanic,Male,75-84,0,93,11
+1,4,8,4,1,2010,NYC,Hispanic,Female,85+,0,25,2
+2,4,8,4,1,2010,NYC,Hispanic,Male,85+,0,22,8
+1,4,FALSE,4,1,2010,NYC,Hispanic,Female,<1,0,0,0
+2,4,FALSE,4,1,2010,NYC,Hispanic,Male,<1,0,0,0
+1,4,FALSE,4,1,2010,NYC,Hispanic,Female,Total,1,433,116
+2,4,FALSE,4,1,2010,NYC,Hispanic,Male,Total,21,"1,200",338
+2,4,FALSE,5,1,2010,NYC,Other,Male,19-Oct,0,0,0
+1,4,4,5,1,2010,NYC,Other,Female,45-54,0,0,0
+2,4,4,5,1,2010,NYC,Other,Male,45-54,0,0,0
+2,4,7,5,1,2010,NYC,Other,Male,75-84,0,0,0
+1,4,FALSE,5,1,2010,NYC,Other,Female,Total,0,0,0
+2,4,FALSE,5,1,2010,NYC,Other,Male,Total,0,0,0
+1,4,8,1,1,2010,NYC,White Non Hispanic,Female,85+,0,0,0
+1,4,FALSE,1,1,2010,NYC,White Non Hispanic,Female,Total,0,0,0
+2,4,2,2,2,2010,ROS,Black Non Hispanic,Male,25-34,1,0,0
+1,4,3,2,2,2010,ROS,Black Non Hispanic,Female,35-44,0,0,0
+2,4,3,2,2,2010,ROS,Black Non Hispanic,Male,35-44,1,0,1
+1,4,4,2,2,2010,ROS,Black Non Hispanic,Female,45-54,0,0,0
+1,4,5,2,2,2010,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,4,5,2,2,2010,ROS,Black Non Hispanic,Male,55-64,0,1,0
+1,4,6,2,2,2010,ROS,Black Non Hispanic,Female,65-74,0,0,0
+2,4,6,2,2,2010,ROS,Black Non Hispanic,Male,65-74,0,0,0
+2,4,7,2,2,2010,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,4,8,2,2,2010,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,4,8,2,2,2010,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,4,FALSE,2,2,2010,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,4,FALSE,2,2,2010,ROS,Black Non Hispanic,Male,Total,2,1,1
+1,4,FALSE,4,2,2010,ROS,Hispanic,Female,9-Jan,1,0,0
+2,4,FALSE,4,2,2010,ROS,Hispanic,Male,9-Jan,4,0,0
+1,4,FALSE,4,2,2010,ROS,Hispanic,Female,19-Oct,2,0,13
+2,4,FALSE,4,2,2010,ROS,Hispanic,Male,19-Oct,37,3,40
+1,4,1,4,2,2010,ROS,Hispanic,Female,20-24,1,3,10
+2,4,1,4,2,2010,ROS,Hispanic,Male,20-24,69,14,74
+1,4,2,4,2,2010,ROS,Hispanic,Female,25-34,13,9,20
+2,4,2,4,2,2010,ROS,Hispanic,Male,25-34,80,61,109
+1,4,3,4,2,2010,ROS,Hispanic,Female,35-44,11,44,32
+2,4,3,4,2,2010,ROS,Hispanic,Male,35-44,85,129,158
+1,4,4,4,2,2010,ROS,Hispanic,Female,45-54,15,149,49
+2,4,4,4,2,2010,ROS,Hispanic,Male,45-54,104,373,223
+1,4,5,4,2,2010,ROS,Hispanic,Female,55-64,8,157,37
+2,4,5,4,2,2010,ROS,Hispanic,Male,55-64,62,526,115
+1,3,7,4,2,2009,ROS,Hispanic,Female,75-84,2,105,4
+1,3,4,2,1,2009,NYC,Black Non Hispanic,Female,45-54,0,0,0
+2,3,5,2,1,2009,NYC,Black Non Hispanic,Male,55-64,0,0,0
+1,3,6,2,1,2009,NYC,Black Non Hispanic,Female,65-74,0,0,0
+1,3,7,2,1,2009,NYC,Black Non Hispanic,Female,75-84,0,0,0
+2,3,7,2,1,2009,NYC,Black Non Hispanic,Male,75-84,0,1,0
+1,3,FALSE,2,1,2009,NYC,Black Non Hispanic,Female,Total,0,0,0
+2,3,FALSE,2,1,2009,NYC,Black Non Hispanic,Male,Total,0,1,0
+1,3,FALSE,4,1,2009,NYC,Hispanic,Female,9-Jan,0,0,0
+2,3,FALSE,4,1,2009,NYC,Hispanic,Male,9-Jan,0,0,1
+1,3,FALSE,4,1,2009,NYC,Hispanic,Female,19-Oct,0,0,6
+2,3,FALSE,4,1,2009,NYC,Hispanic,Male,19-Oct,3,1,12
+1,3,1,4,1,2009,NYC,Hispanic,Female,20-24,0,0,11
+2,3,1,4,1,2009,NYC,Hispanic,Male,20-24,7,3,26
+1,3,2,4,1,2009,NYC,Hispanic,Female,25-34,1,8,12
+2,3,2,4,1,2009,NYC,Hispanic,Male,25-34,10,42,56
+1,3,3,4,1,2009,NYC,Hispanic,Female,35-44,0,46,20
+2,3,3,4,1,2009,NYC,Hispanic,Male,35-44,9,127,61
+1,3,4,4,1,2009,NYC,Hispanic,Female,45-54,2,108,18
+2,3,4,4,1,2009,NYC,Hispanic,Male,45-54,2,373,78
+1,3,5,4,1,2009,NYC,Hispanic,Female,55-64,0,125,20
+2,3,5,4,1,2009,NYC,Hispanic,Male,55-64,3,397,57
+1,3,6,4,1,2009,NYC,Hispanic,Female,65-74,0,71,10
+2,3,6,4,1,2009,NYC,Hispanic,Male,65-74,0,224,19
+1,3,7,4,1,2009,NYC,Hispanic,Female,75-84,1,72,7
+2,3,7,4,1,2009,NYC,Hispanic,Male,75-84,1,95,21
+1,3,8,4,1,2009,NYC,Hispanic,Female,85+,0,14,5
+2,3,8,4,1,2009,NYC,Hispanic,Male,85+,0,27,5
+1,3,FALSE,4,1,2009,NYC,Hispanic,Female,<1,0,0,0
+2,3,FALSE,4,1,2009,NYC,Hispanic,Male,<1,0,1,0
+1,3,FALSE,4,1,2009,NYC,Hispanic,Female,Total,4,444,109
+2,3,FALSE,4,1,2009,NYC,Hispanic,Male,Total,35,"1,290",336
+2,3,FALSE,5,1,2009,NYC,Other,Male,<1,0,0,0
+2,3,FALSE,5,1,2009,NYC,Other,Male,Total,0,0,0
+1,3,5,1,1,2009,NYC,White Non Hispanic,Female,55-64,0,0,0
+1,3,7,1,1,2009,NYC,White Non Hispanic,Female,75-84,0,0,0
+1,3,8,1,1,2009,NYC,White Non Hispanic,Female,85+,0,0,0
+2,3,FALSE,1,1,2009,NYC,White Non Hispanic,Male,<1,0,0,0
+1,3,FALSE,1,1,2009,NYC,White Non Hispanic,Female,Total,0,0,0
+2,3,FALSE,1,1,2009,NYC,White Non Hispanic,Male,Total,0,0,0
+1,3,2,2,2,2009,ROS,Black Non Hispanic,Female,25-34,0,0,0
+2,3,2,2,2,2009,ROS,Black Non Hispanic,Male,25-34,0,0,0
+2,3,3,2,2,2009,ROS,Black Non Hispanic,Male,35-44,0,0,0
+1,3,4,2,2,2009,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,3,4,2,2,2009,ROS,Black Non Hispanic,Male,45-54,0,0,0
+1,3,5,2,2,2009,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,3,5,2,2,2009,ROS,Black Non Hispanic,Male,55-64,0,1,0
+1,3,6,2,2,2009,ROS,Black Non Hispanic,Female,65-74,0,1,0
+2,3,6,2,2,2009,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,3,7,2,2,2009,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,3,7,2,2,2009,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,3,FALSE,2,2,2009,ROS,Black Non Hispanic,Female,Total,0,1,0
+2,3,FALSE,2,2,2009,ROS,Black Non Hispanic,Male,Total,0,1,0
+1,3,FALSE,4,2,2009,ROS,Hispanic,Female,9-Jan,0,0,0
+2,3,FALSE,4,2,2009,ROS,Hispanic,Male,9-Jan,1,0,0
+1,3,FALSE,4,2,2009,ROS,Hispanic,Female,19-Oct,5,1,15
+2,3,FALSE,4,2,2009,ROS,Hispanic,Male,19-Oct,35,4,36
+1,3,1,4,2,2009,ROS,Hispanic,Female,20-24,5,2,11
+2,3,1,4,2,2009,ROS,Hispanic,Male,20-24,62,13,68
+1,3,2,4,2,2009,ROS,Hispanic,Female,25-34,6,9,22
+2,3,2,4,2,2009,ROS,Hispanic,Male,25-34,90,50,81
+1,3,3,4,2,2009,ROS,Hispanic,Female,35-44,11,46,41
+2,3,3,4,2,2009,ROS,Hispanic,Male,35-44,61,122,130
+1,3,4,4,2,2009,ROS,Hispanic,Female,45-54,13,117,47
+2,3,4,4,2,2009,ROS,Hispanic,Male,45-54,78,396,189
+1,3,5,4,2,2009,ROS,Hispanic,Female,55-64,9,146,23
+2,3,5,4,2,2009,ROS,Hispanic,Male,55-64,66,442,122
+1,3,6,4,2,2009,ROS,Hispanic,Female,65-74,4,126,14
+2,3,6,4,2,2009,ROS,Hispanic,Male,65-74,43,264,66
+2,3,7,4,2,2009,ROS,Hispanic,Male,75-84,30,161,43
+1,3,8,4,2,2009,ROS,Hispanic,Female,85+,6,52,8
+2,3,8,4,2,2009,ROS,Hispanic,Male,85+,20,48,27
+1,3,FALSE,4,2,2009,ROS,Hispanic,Female,<1,0,0,0
+2,3,FALSE,4,2,2009,ROS,Hispanic,Male,<1,0,0,0
+1,3,FALSE,4,2,2009,ROS,Hispanic,Female,Total,61,604,185
+2,3,FALSE,4,2,2009,ROS,Hispanic,Male,Total,486,"1,500",762
+2,3,2,5,2,2009,ROS,Other,Male,25-34,0,0,0
+1,3,3,5,2,2009,ROS,Other,Female,35-44,0,0,0
+1,3,4,5,2,2009,ROS,Other,Female,45-54,0,0,0
+2,3,4,5,2,2009,ROS,Other,Male,45-54,0,2,0
+1,3,6,5,2,2009,ROS,Other,Female,65-74,0,0,0
+2,3,6,5,2,2009,ROS,Other,Male,65-74,0,0,0
+2,3,7,5,2,2009,ROS,Other,Male,75-84,0,0,0
+1,3,8,5,2,2009,ROS,Other,Female,85+,0,0,0
+2,3,8,5,2,2009,ROS,Other,Male,85+,0,0,0
+1,3,FALSE,5,2,2009,ROS,Other,Female,<1,0,0,0
+1,3,FALSE,5,2,2009,ROS,Other,Female,Total,0,0,0
+2,3,FALSE,5,2,2009,ROS,Other,Male,Total,0,2,0
+2,3,3,3,2,2009,ROS,Asian/ Pacific Islander,Male,35-44,0,1,0
+1,3,8,3,2,2009,ROS,Asian/ Pacific Islander,Female,85+,0,0,0
+1,3,FALSE,3,2,2009,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+2,3,FALSE,3,2,2009,ROS,Asian/ Pacific Islander,Male,Total,0,1,0
+1,3,FALSE,1,2,2009,ROS,White Non Hispanic,Female,9-Jan,0,0,0
+2,3,1,1,2,2009,ROS,White Non Hispanic,Male,20-24,1,0,1
+2,3,3,1,2,2009,ROS,White Non Hispanic,Male,35-44,0,1,0
+1,3,4,1,2,2009,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,3,4,1,2,2009,ROS,White Non Hispanic,Male,45-54,0,0,0
+1,3,5,1,2,2009,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,3,5,1,2,2009,ROS,White Non Hispanic,Male,55-64,0,3,0
+1,3,6,1,2,2009,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,3,6,1,2,2009,ROS,White Non Hispanic,Male,65-74,0,0,0
+1,3,7,1,2,2009,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,3,7,1,2,2009,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,3,8,1,2,2009,ROS,White Non Hispanic,Female,85+,0,0,0
+2,3,8,1,2,2009,ROS,White Non Hispanic,Male,85+,0,0,0
+1,3,FALSE,1,2,2009,ROS,White Non Hispanic,Female,Total,0,0,0
+2,3,FALSE,1,2,2009,ROS,White Non Hispanic,Male,Total,1,4,1
+2,2,5,4,2,2008,ROS,Hispanic,Male,55-64,57,453,109
+2,2,FALSE,1,2,2008,ROS,White Non Hispanic,Male,Total,1,3,2
+1,2,FALSE,1,2,2008,ROS,White Non Hispanic,Female,Total,0,0,0
+2,2,8,1,2,2008,ROS,White Non Hispanic,Male,85+,0,0,0
+1,2,8,1,2,2008,ROS,White Non Hispanic,Female,85+,0,0,0
+2,2,7,1,2,2008,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,2,7,1,2,2008,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,2,6,1,2,2008,ROS,White Non Hispanic,Male,65-74,0,0,0
+1,2,6,1,2,2008,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,2,5,1,2,2008,ROS,White Non Hispanic,Male,55-64,1,0,1
+1,2,5,1,2,2008,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,2,4,1,2,2008,ROS,White Non Hispanic,Male,45-54,0,1,1
+1,2,4,1,2,2008,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,2,3,1,2,2008,ROS,White Non Hispanic,Male,35-44,0,2,0
+1,2,3,1,2,2008,ROS,White Non Hispanic,Female,35-44,0,0,0
+2,2,FALSE,3,2,2008,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+2,2,7,3,2,2008,ROS,Asian/ Pacific Islander,Male,75-84,0,0,0
+2,2,FALSE,5,2,2008,ROS,Other,Male,Total,0,1,0
+1,2,FALSE,5,2,2008,ROS,Other,Female,Total,0,1,0
+2,2,8,5,2,2008,ROS,Other,Male,85+,0,0,0
+1,2,8,5,2,2008,ROS,Other,Female,85+,0,0,0
+2,2,7,5,2,2008,ROS,Other,Male,75-84,0,0,0
+1,2,7,5,2,2008,ROS,Other,Female,75-84,0,0,0
+2,2,6,5,2,2008,ROS,Other,Male,65-74,0,0,0
+2,2,5,5,2,2008,ROS,Other,Male,55-64,0,0,0
+1,2,5,5,2,2008,ROS,Other,Female,55-64,0,1,0
+2,2,4,5,2,2008,ROS,Other,Male,45-54,0,1,0
+1,2,4,5,2,2008,ROS,Other,Female,45-54,0,0,0
+2,2,FALSE,4,2,2008,ROS,Hispanic,Male,Total,487,"1,487",734
+1,2,FALSE,4,2,2008,ROS,Hispanic,Female,Total,55,667,197
+2,2,FALSE,4,2,2008,ROS,Hispanic,Male,<1,0,0,0
+1,2,FALSE,4,2,2008,ROS,Hispanic,Female,<1,0,0,0
+2,2,8,4,2,2008,ROS,Hispanic,Male,85+,16,42,21
+1,2,8,4,2,2008,ROS,Hispanic,Female,85+,4,58,4
+2,2,7,4,2,2008,ROS,Hispanic,Male,75-84,31,178,48
+1,2,7,4,2,2008,ROS,Hispanic,Female,75-84,2,132,9
+2,2,6,4,2,2008,ROS,Hispanic,Male,65-74,41,244,62
+1,2,6,4,2,2008,ROS,Hispanic,Female,65-74,1,123,13
+2,2,2,2,1,2008,NYC,Black Non Hispanic,Male,25-34,0,0,0
+2,2,5,2,1,2008,NYC,Black Non Hispanic,Male,55-64,0,1,0
+1,2,6,2,1,2008,NYC,Black Non Hispanic,Female,65-74,0,0,0
+1,2,7,2,1,2008,NYC,Black Non Hispanic,Female,75-84,0,0,0
+2,2,7,2,1,2008,NYC,Black Non Hispanic,Male,75-84,0,0,0
+2,2,8,2,1,2008,NYC,Black Non Hispanic,Male,85+,0,0,0
+1,2,FALSE,2,1,2008,NYC,Black Non Hispanic,Female,Total,0,0,0
+2,2,FALSE,2,1,2008,NYC,Black Non Hispanic,Male,Total,0,1,0
+1,2,FALSE,4,1,2008,NYC,Hispanic,Female,9-Jan,0,0,0
+2,2,FALSE,4,1,2008,NYC,Hispanic,Male,9-Jan,0,0,0
+1,2,FALSE,4,1,2008,NYC,Hispanic,Female,19-Oct,0,0,6
+2,2,FALSE,4,1,2008,NYC,Hispanic,Male,19-Oct,2,5,11
+1,2,1,4,1,2008,NYC,Hispanic,Female,20-24,1,0,4
+2,2,1,4,1,2008,NYC,Hispanic,Male,20-24,14,9,21
+1,2,2,4,1,2008,NYC,Hispanic,Female,25-34,0,6,26
+2,2,2,4,1,2008,NYC,Hispanic,Male,25-34,6,48,54
+1,2,3,4,1,2008,NYC,Hispanic,Female,35-44,1,51,28
+2,2,3,4,1,2008,NYC,Hispanic,Male,35-44,4,146,61
+1,2,4,4,1,2008,NYC,Hispanic,Female,45-54,1,106,23
+2,2,4,4,1,2008,NYC,Hispanic,Male,45-54,4,352,82
+1,2,5,4,1,2008,NYC,Hispanic,Female,55-64,0,118,12
+2,2,5,4,1,2008,NYC,Hispanic,Male,55-64,1,402,44
+1,2,6,4,1,2008,NYC,Hispanic,Female,65-74,0,80,13
+2,2,6,4,1,2008,NYC,Hispanic,Male,65-74,1,176,38
+1,2,7,4,1,2008,NYC,Hispanic,Female,75-84,0,49,6
+2,2,7,4,1,2008,NYC,Hispanic,Male,75-84,0,63,18
+1,2,8,4,1,2008,NYC,Hispanic,Female,85+,0,19,4
+2,2,8,4,1,2008,NYC,Hispanic,Male,85+,0,17,2
+1,2,FALSE,4,1,2008,NYC,Hispanic,Female,<1,0,0,0
+2,2,FALSE,4,1,2008,NYC,Hispanic,Male,<1,0,0,0
+1,2,FALSE,4,1,2008,NYC,Hispanic,Female,Total,3,429,122
+2,2,FALSE,4,1,2008,NYC,Hispanic,Male,Total,32,"1,218",331
+2,2,4,5,1,2008,NYC,Other,Male,45-54,0,0,0
+2,2,5,5,1,2008,NYC,Other,Male,55-64,0,0,0
+2,2,6,5,1,2008,NYC,Other,Male,65-74,0,0,0
+2,2,7,5,1,2008,NYC,Other,Male,75-84,0,0,0
+2,2,FALSE,5,1,2008,NYC,Other,Male,Total,0,0,0
+1,2,2,1,1,2008,NYC,White Non Hispanic,Female,25-34,0,0,0
+1,2,3,1,1,2008,NYC,White Non Hispanic,Female,35-44,0,0,0
+2,2,3,1,1,2008,NYC,White Non Hispanic,Male,35-44,0,0,0
+2,2,6,1,1,2008,NYC,White Non Hispanic,Male,65-74,0,0,0
+2,2,7,1,1,2008,NYC,White Non Hispanic,Male,75-84,0,0,0
+1,2,FALSE,1,1,2008,NYC,White Non Hispanic,Female,Total,0,0,0
+2,2,FALSE,1,1,2008,NYC,White Non Hispanic,Male,Total,0,0,0
+2,2,3,2,2,2008,ROS,Black Non Hispanic,Male,35-44,0,0,0
+1,2,4,2,2,2008,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,2,4,2,2,2008,ROS,Black Non Hispanic,Male,45-54,0,0,0
+1,2,5,2,2,2008,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,2,5,2,2,2008,ROS,Black Non Hispanic,Male,55-64,0,0,0
+1,2,6,2,2,2008,ROS,Black Non Hispanic,Female,65-74,0,0,0
+2,2,6,2,2,2008,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,2,7,2,2,2008,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,2,7,2,2,2008,ROS,Black Non Hispanic,Male,75-84,0,0,0
+2,2,8,2,2,2008,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,2,FALSE,2,2,2008,ROS,Black Non Hispanic,Female,<1,0,0,0
+2,2,FALSE,2,2,2008,ROS,Black Non Hispanic,Male,<1,0,0,0
+1,2,FALSE,2,2,2008,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,2,FALSE,2,2,2008,ROS,Black Non Hispanic,Male,Total,0,0,0
+1,2,FALSE,4,2,2008,ROS,Hispanic,Female,9-Jan,0,1,0
+2,2,FALSE,4,2,2008,ROS,Hispanic,Male,9-Jan,1,0,0
+1,2,FALSE,4,2,2008,ROS,Hispanic,Female,19-Oct,6,1,8
+2,2,FALSE,4,2,2008,ROS,Hispanic,Male,19-Oct,42,4,29
+1,2,1,4,2,2008,ROS,Hispanic,Female,20-24,5,5,18
+2,2,1,4,2,2008,ROS,Hispanic,Male,20-24,55,24,54
+1,2,2,4,2,2008,ROS,Hispanic,Female,25-34,11,12,18
+2,2,2,4,2,2008,ROS,Hispanic,Male,25-34,83,44,98
+1,2,3,4,2,2008,ROS,Hispanic,Female,35-44,10,46,34
+2,2,3,4,2,2008,ROS,Hispanic,Male,35-44,84,128,153
+1,2,4,4,2,2008,ROS,Hispanic,Female,45-54,12,147,59
+2,2,4,4,2,2008,ROS,Hispanic,Male,45-54,77,370,160
+1,2,5,4,2,2008,ROS,Hispanic,Female,55-64,4,142,34
+1,1,FALSE,4,2,2007,ROS,Hispanic,Female,<1,0,0,0
+2,1,FALSE,4,2,2007,ROS,Hispanic,Male,<1,0,0,0
+1,1,FALSE,4,2,2007,ROS,Hispanic,Female,Total,55,618,204
+2,1,FALSE,4,2,2007,ROS,Hispanic,Male,Total,510,"1,467",719
+1,1,FALSE,5,2,2007,ROS,Other,Female,19-Oct,0,0,0
+2,1,FALSE,5,2,2007,ROS,Other,Male,19-Oct,0,0,0
+1,1,2,5,2,2007,ROS,Other,Female,25-34,0,0,0
+2,1,2,5,2,2007,ROS,Other,Male,25-34,0,0,0
+2,1,5,5,2,2007,ROS,Other,Male,55-64,0,0,0
+1,1,6,5,2,2007,ROS,Other,Female,65-74,0,0,0
+2,1,6,5,2,2007,ROS,Other,Male,65-74,0,0,0
+1,1,7,5,2,2007,ROS,Other,Female,75-84,0,0,0
+2,1,7,5,2,2007,ROS,Other,Male,75-84,0,0,0
+1,1,8,5,2,2007,ROS,Other,Female,85+,0,0,0
+2,1,8,5,2,2007,ROS,Other,Male,85+,0,0,0
+1,1,FALSE,5,2,2007,ROS,Other,Female,<1,0,0,0
+2,1,FALSE,5,2,2007,ROS,Other,Male,<1,0,0,0
+1,1,FALSE,5,2,2007,ROS,Other,Female,Total,0,0,0
+2,1,FALSE,5,2,2007,ROS,Other,Male,Total,0,0,0
+2,1,2,3,2,2007,ROS,Asian/ Pacific Islander,Male,25-34,0,0,0
+2,1,5,3,2,2007,ROS,Asian/ Pacific Islander,Male,55-64,0,0,0
+1,1,7,3,2,2007,ROS,Asian/ Pacific Islander,Female,75-84,0,0,0
+2,1,8,3,2,2007,ROS,Asian/ Pacific Islander,Male,85+,0,0,0
+1,1,FALSE,3,2,2007,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+2,1,FALSE,3,2,2007,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,1,4,1,2,2007,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,1,4,1,2,2007,ROS,White Non Hispanic,Male,45-54,0,0,0
+1,1,5,1,2,2007,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,1,5,1,2,2007,ROS,White Non Hispanic,Male,55-64,0,0,0
+1,1,6,1,2,2007,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,1,6,1,2,2007,ROS,White Non Hispanic,Male,65-74,0,0,0
+1,1,7,1,2,2007,ROS,White Non Hispanic,Female,75-84,0,1,0
+2,1,7,1,2,2007,ROS,White Non Hispanic,Male,75-84,1,0,1
+1,1,8,1,2,2007,ROS,White Non Hispanic,Female,85+,0,0,0
+2,1,8,1,2,2007,ROS,White Non Hispanic,Male,85+,0,0,0
+1,1,FALSE,1,2,2007,ROS,White Non Hispanic,Female,Total,0,1,0
+2,1,FALSE,1,2,2007,ROS,White Non Hispanic,Male,Total,1,0,1
+2,1,FALSE,1,1,2007,NYC,White Non Hispanic,Male,Total,0,0,0
+2,1,7,4,2,2007,ROS,Hispanic,Male,75-84,38,170,52
+1,1,FALSE,1,1,2007,NYC,White Non Hispanic,Female,Total,0,0,0
+2,1,8,1,1,2007,NYC,White Non Hispanic,Male,85+,0,0,0
+2,1,7,1,1,2007,NYC,White Non Hispanic,Male,75-84,0,0,0
+2,1,6,1,1,2007,NYC,White Non Hispanic,Male,65-74,0,0,0
+1,1,6,1,1,2007,NYC,White Non Hispanic,Female,65-74,0,0,0
+1,1,FALSE,5,1,2007,NYC,Other,Female,Total,0,0,0
+1,1,FALSE,5,1,2007,NYC,Other,Female,<1,0,0,0
+1,1,6,5,1,2007,NYC,Other,Female,65-74,0,0,0
+2,1,FALSE,4,1,2007,NYC,Hispanic,Male,Total,374,"1,085",337
+1,1,FALSE,4,1,2007,NYC,Hispanic,Female,Total,38,422,128
+2,1,FALSE,4,1,2007,NYC,Hispanic,Male,<1,0,0,0
+1,1,FALSE,4,1,2007,NYC,Hispanic,Female,<1,0,0,0
+2,1,8,4,1,2007,NYC,Hispanic,Male,85+,1,18,6
+1,1,8,4,1,2007,NYC,Hispanic,Female,85+,2,25,5
+2,1,7,4,1,2007,NYC,Hispanic,Male,75-84,9,63,23
+1,1,7,4,1,2007,NYC,Hispanic,Female,75-84,2,64,10
+2,1,6,4,1,2007,NYC,Hispanic,Male,65-74,11,174,27
+1,1,6,4,1,2007,NYC,Hispanic,Female,65-74,1,71,17
+2,1,5,4,1,2007,NYC,Hispanic,Male,55-64,11,355,43
+1,1,5,4,1,2007,NYC,Hispanic,Female,55-64,2,123,26
+2,1,4,4,1,2007,NYC,Hispanic,Male,45-54,24,324,58
+1,1,4,4,1,2007,NYC,Hispanic,Female,45-54,3,93,18
+2,1,3,4,1,2007,NYC,Hispanic,Male,35-44,70,112,73
+1,1,3,4,1,2007,NYC,Hispanic,Female,35-44,8,37,20
+2,1,2,4,1,2007,NYC,Hispanic,Male,25-34,112,31,65
+1,1,2,4,1,2007,NYC,Hispanic,Female,25-34,12,6,22
+2,1,1,4,1,2007,NYC,Hispanic,Male,20-24,76,8,27
+1,1,1,4,1,2007,NYC,Hispanic,Female,20-24,6,3,8
+2,1,FALSE,4,1,2007,NYC,Hispanic,Male,19-Oct,60,0,15
+1,1,FALSE,4,1,2007,NYC,Hispanic,Female,19-Oct,2,0,2
+2,1,FALSE,4,1,2007,NYC,Hispanic,Male,9-Jan,0,0,0
+1,1,FALSE,4,1,2007,NYC,Hispanic,Female,9-Jan,0,0,0
+2,1,FALSE,2,1,2007,NYC,Black Non Hispanic,Male,Total,0,0,1
+1,1,FALSE,2,1,2007,NYC,Black Non Hispanic,Female,Total,0,0,0
+1,1,8,2,1,2007,NYC,Black Non Hispanic,Female,85+,0,0,0
+2,1,7,2,1,2007,NYC,Black Non Hispanic,Male,75-84,0,0,0
+1,1,7,2,1,2007,NYC,Black Non Hispanic,Female,75-84,0,0,0
+2,1,6,2,1,2007,NYC,Black Non Hispanic,Male,65-74,0,0,0
+2,1,4,2,1,2007,NYC,Black Non Hispanic,Male,45-54,0,0,0
+2,1,2,2,1,2007,NYC,Black Non Hispanic,Male,25-34,0,0,1
+1,1,7,4,2,2007,ROS,Hispanic,Female,75-84,2,115,9
+2,1,6,4,2,2007,ROS,Hispanic,Male,65-74,38,263,50
+1,1,6,4,2,2007,ROS,Hispanic,Female,65-74,3,111,20
+2,1,5,4,2,2007,ROS,Hispanic,Male,55-64,65,387,103
+1,1,5,4,2,2007,ROS,Hispanic,Female,55-64,5,134,37
+2,1,4,4,2,2007,ROS,Hispanic,Male,45-54,90,396,173
+1,1,4,4,2,2007,ROS,Hispanic,Female,45-54,4,128,49
+2,1,3,4,2,2007,ROS,Hispanic,Male,35-44,82,129,146
+1,1,3,4,2,2007,ROS,Hispanic,Female,35-44,18,54,40
+2,1,2,4,2,2007,ROS,Hispanic,Male,25-34,82,57,93
+1,1,2,4,2,2007,ROS,Hispanic,Female,25-34,13,19,26
+2,1,1,4,2,2007,ROS,Hispanic,Male,20-24,60,19,51
+1,1,1,4,2,2007,ROS,Hispanic,Female,20-24,3,0,8
+2,1,FALSE,4,2,2007,ROS,Hispanic,Male,19-Oct,39,5,31
+1,1,FALSE,4,2,2007,ROS,Hispanic,Female,19-Oct,5,1,10
+2,1,FALSE,4,2,2007,ROS,Hispanic,Male,9-Jan,0,0,0
+1,1,FALSE,4,2,2007,ROS,Hispanic,Female,9-Jan,1,0,0
+2,1,FALSE,2,2,2007,ROS,Black Non Hispanic,Male,Total,0,1,0
+1,1,FALSE,2,2,2007,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,1,FALSE,2,2,2007,ROS,Black Non Hispanic,Male,<1,0,0,0
+1,1,8,2,2,2007,ROS,Black Non Hispanic,Female,85+,0,0,0
+1,1,7,2,2,2007,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,1,6,2,2,2007,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,1,6,2,2,2007,ROS,Black Non Hispanic,Female,65-74,0,0,0
+2,1,5,2,2,2007,ROS,Black Non Hispanic,Male,55-64,0,1,0
+1,1,5,2,2,2007,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,1,2,2,2,2007,ROS,Black Non Hispanic,Male,25-34,0,0,0
+1,1,8,4,2,2007,ROS,Hispanic,Female,85+,1,56,5
+2,1,8,4,2,2007,ROS,Hispanic,Male,85+,16,41,20
+1,FALSE,8,4,1,2006,NYC,Hispanic,Female,85+,0,25,4
+2,FALSE,FALSE,2,1,2006,NYC,Black Non Hispanic,Male,19-Oct,0,0,0
+1,FALSE,3,2,1,2006,NYC,Black Non Hispanic,Female,35-44,0,0,0
+1,FALSE,4,2,1,2006,NYC,Black Non Hispanic,Female,45-54,0,0,0
+2,FALSE,4,2,1,2006,NYC,Black Non Hispanic,Male,45-54,0,0,0
+1,FALSE,6,2,1,2006,NYC,Black Non Hispanic,Female,65-74,0,0,0
+1,FALSE,8,2,1,2006,NYC,Black Non Hispanic,Female,85+,0,0,0
+1,FALSE,FALSE,2,1,2006,NYC,Black Non Hispanic,Female,Total,0,0,0
+2,FALSE,FALSE,2,1,2006,NYC,Black Non Hispanic,Male,Total,0,0,0
+1,FALSE,FALSE,4,1,2006,NYC,Hispanic,Female,9-Jan,2,0,0
+2,FALSE,FALSE,4,1,2006,NYC,Hispanic,Male,9-Jan,2,0,0
+1,FALSE,FALSE,4,1,2006,NYC,Hispanic,Female,19-Oct,7,0,6
+2,FALSE,FALSE,4,1,2006,NYC,Hispanic,Male,19-Oct,39,0,8
+1,FALSE,1,4,1,2006,NYC,Hispanic,Female,20-24,3,1,5
+2,FALSE,1,4,1,2006,NYC,Hispanic,Male,20-24,106,0,23
+1,FALSE,2,4,1,2006,NYC,Hispanic,Female,25-34,7,7,15
+2,FALSE,2,4,1,2006,NYC,Hispanic,Male,25-34,130,24,58
+1,FALSE,3,4,1,2006,NYC,Hispanic,Female,35-44,4,37,17
+2,FALSE,3,4,1,2006,NYC,Hispanic,Male,35-44,47,104,54
+1,FALSE,4,4,1,2006,NYC,Hispanic,Female,45-54,4,89,34
+2,FALSE,4,4,1,2006,NYC,Hispanic,Male,45-54,25,353,77
+1,FALSE,5,4,1,2006,NYC,Hispanic,Female,55-64,2,102,14
+2,FALSE,5,4,1,2006,NYC,Hispanic,Male,55-64,14,365,49
+1,FALSE,6,4,1,2006,NYC,Hispanic,Female,65-74,2,73,8
+2,FALSE,6,4,1,2006,NYC,Hispanic,Male,65-74,11,167,21
+1,FALSE,7,4,1,2006,NYC,Hispanic,Female,75-84,0,57,7
+2,FALSE,7,4,1,2006,NYC,Hispanic,Male,75-84,4,79,23
+2,FALSE,8,4,1,2006,NYC,Hispanic,Male,85+,1,21,6
+1,FALSE,FALSE,4,1,2006,NYC,Hispanic,Female,<1,0,2,0
+2,FALSE,FALSE,4,1,2006,NYC,Hispanic,Male,<1,0,2,0
+1,FALSE,FALSE,4,1,2006,NYC,Hispanic,Female,Total,31,393,110
+2,FALSE,FALSE,4,1,2006,NYC,Hispanic,Male,Total,379,"1,115",319
+2,FALSE,4,5,1,2006,NYC,Other,Male,45-54,0,0,0
+1,FALSE,7,5,1,2006,NYC,Other,Female,75-84,0,0,0
+1,FALSE,FALSE,5,1,2006,NYC,Other,Female,Total,0,0,0
+2,FALSE,FALSE,5,1,2006,NYC,Other,Male,Total,0,0,0
+2,FALSE,5,1,1,2006,NYC,White Non Hispanic,Male,55-64,0,1,0
+1,FALSE,7,1,1,2006,NYC,White Non Hispanic,Female,75-84,0,0,0
+2,FALSE,7,1,1,2006,NYC,White Non Hispanic,Male,75-84,0,0,0
+1,FALSE,8,1,1,2006,NYC,White Non Hispanic,Female,85+,0,0,0
+2,FALSE,8,1,1,2006,NYC,White Non Hispanic,Male,85+,0,0,0
+1,FALSE,FALSE,1,1,2006,NYC,White Non Hispanic,Female,Total,0,0,0
+2,FALSE,FALSE,1,1,2006,NYC,White Non Hispanic,Male,Total,0,1,0
+1,FALSE,2,2,2,2006,ROS,Black Non Hispanic,Female,25-34,0,0,0
+2,FALSE,3,2,2,2006,ROS,Black Non Hispanic,Male,35-44,0,0,0
+1,FALSE,5,2,2,2006,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,FALSE,5,2,2,2006,ROS,Black Non Hispanic,Male,55-64,0,0,0
+1,FALSE,6,2,2,2006,ROS,Black Non Hispanic,Female,65-74,0,0,0
+1,FALSE,7,2,2,2006,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,FALSE,7,2,2,2006,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,FALSE,8,2,2,2006,ROS,Black Non Hispanic,Female,85+,0,0,0
+1,FALSE,FALSE,2,2,2006,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,FALSE,FALSE,2,2,2006,ROS,Black Non Hispanic,Male,Total,0,0,0
+1,FALSE,FALSE,4,2,2006,ROS,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,4,2,2006,ROS,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,2,2006,ROS,Hispanic,Female,19-Oct,9,2,5
+2,FALSE,FALSE,4,2,2006,ROS,Hispanic,Male,19-Oct,54,7,41
+1,FALSE,1,4,2,2006,ROS,Hispanic,Female,20-24,2,2,5
+2,FALSE,1,4,2,2006,ROS,Hispanic,Male,20-24,69,16,59
+1,FALSE,2,4,2,2006,ROS,Hispanic,Female,25-34,7,8,15
+2,FALSE,2,4,2,2006,ROS,Hispanic,Male,25-34,103,40,115
+1,FALSE,3,4,2,2006,ROS,Hispanic,Female,35-44,10,47,26
+2,FALSE,3,4,2,2006,ROS,Hispanic,Male,35-44,78,142,151
+1,FALSE,4,4,2,2006,ROS,Hispanic,Female,45-54,18,126,33
+2,FALSE,4,4,2,2006,ROS,Hispanic,Male,45-54,77,370,157
+1,FALSE,5,4,2,2006,ROS,Hispanic,Female,55-64,6,127,32
+2,FALSE,5,4,2,2006,ROS,Hispanic,Male,55-64,53,375,97
+1,FALSE,6,4,2,2006,ROS,Hispanic,Female,65-74,3,112,9
+2,FALSE,6,4,2,2006,ROS,Hispanic,Male,65-74,40,254,57
+1,FALSE,7,4,2,2006,ROS,Hispanic,Female,75-84,2,138,12
+2,FALSE,7,4,2,2006,ROS,Hispanic,Male,75-84,28,174,43
+1,FALSE,8,4,2,2006,ROS,Hispanic,Female,85+,0,51,3
+2,FALSE,8,4,2,2006,ROS,Hispanic,Male,85+,9,43,15
+1,FALSE,FALSE,4,2,2006,ROS,Hispanic,Female,<1,0,1,0
+2,FALSE,FALSE,4,2,2006,ROS,Hispanic,Male,<1,0,0,1
+1,FALSE,FALSE,4,2,2006,ROS,Hispanic,Female,Total,57,614,140
+2,FALSE,FALSE,4,2,2006,ROS,Hispanic,Male,Total,511,"1,421",736
+1,FALSE,1,5,2,2006,ROS,Other,Female,20-24,0,0,0
+2,FALSE,1,5,2,2006,ROS,Other,Male,20-24,1,0,1
+2,FALSE,4,5,2,2006,ROS,Other,Male,45-54,0,1,0
+2,FALSE,5,5,2,2006,ROS,Other,Male,55-64,0,0,0
+1,FALSE,6,5,2,2006,ROS,Other,Female,65-74,0,0,0
+2,FALSE,6,5,2,2006,ROS,Other,Male,65-74,0,0,0
+1,FALSE,7,5,2,2006,ROS,Other,Female,75-84,0,0,0
+2,FALSE,7,5,2,2006,ROS,Other,Male,75-84,0,0,0
+1,FALSE,8,5,2,2006,ROS,Other,Female,85+,0,0,0
+2,FALSE,8,5,2,2006,ROS,Other,Male,85+,0,0,0
+2,FALSE,FALSE,5,2,2006,ROS,Other,Male,<1,0,0,0
+1,FALSE,FALSE,5,2,2006,ROS,Other,Female,Total,0,0,0
+2,FALSE,FALSE,5,2,2006,ROS,Other,Male,Total,1,1,1
+1,FALSE,FALSE,3,2,2006,ROS,Asian/ Pacific Islander,Female,9-Jan,0,0,0
+2,FALSE,4,3,2,2006,ROS,Asian/ Pacific Islander,Male,45-54,0,0,0
+2,FALSE,7,3,2,2006,ROS,Asian/ Pacific Islander,Male,75-84,0,0,0
+1,FALSE,FALSE,3,2,2006,ROS,Asian/ Pacific Islander,Female,<1,0,0,0
+1,FALSE,FALSE,3,2,2006,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+2,FALSE,FALSE,3,2,2006,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,FALSE,3,1,2,2006,ROS,White Non Hispanic,Female,35-44,0,0,0
+2,FALSE,3,1,2,2006,ROS,White Non Hispanic,Male,35-44,0,1,0
+1,FALSE,4,1,2,2006,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,FALSE,4,1,2,2006,ROS,White Non Hispanic,Male,45-54,0,1,1
+1,FALSE,5,1,2,2006,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,FALSE,5,1,2,2006,ROS,White Non Hispanic,Male,55-64,0,0,0
+1,FALSE,6,1,2,2006,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,FALSE,6,1,2,2006,ROS,White Non Hispanic,Male,65-74,0,0,0
+1,FALSE,7,1,2,2006,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,FALSE,7,1,2,2006,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,FALSE,8,1,2,2006,ROS,White Non Hispanic,Female,85+,0,0,0
+2,FALSE,8,1,2,2006,ROS,White Non Hispanic,Male,85+,0,0,0
+1,FALSE,FALSE,1,2,2006,ROS,White Non Hispanic,Female,<1,0,0,0
+2,FALSE,FALSE,1,2,2006,ROS,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,1,2,2006,ROS,White Non Hispanic,Female,Total,0,0,0
+2,FALSE,FALSE,1,2,2006,ROS,White Non Hispanic,Male,Total,0,2,1
+2,FALSE,8,3,2,2005,ROS,Asian/ Pacific Islander,Male,85+,0,0,0
+1,FALSE,7,3,2,2005,ROS,Asian/ Pacific Islander,Female,75-84,0,0,0
+1,FALSE,6,3,2,2005,ROS,Asian/ Pacific Islander,Female,65-74,0,0,0
+1,FALSE,1,3,2,2005,ROS,Asian/ Pacific Islander,Female,20-24,0,0,0
+1,FALSE,FALSE,3,2,2005,ROS,Asian/ Pacific Islander,Female,9-Jan,0,0,0
+2,FALSE,FALSE,5,2,2005,ROS,Other,Male,Total,0,1,0
+1,FALSE,FALSE,5,2,2005,ROS,Other,Female,Total,0,0,0
+2,FALSE,FALSE,5,2,2005,ROS,Other,Male,<1,0,0,0
+1,FALSE,8,5,2,2005,ROS,Other,Female,85+,0,0,0
+2,FALSE,7,5,2,2005,ROS,Other,Male,75-84,0,0,0
+1,FALSE,7,5,2,2005,ROS,Other,Female,75-84,0,0,0
+2,FALSE,6,5,2,2005,ROS,Other,Male,65-74,0,1,0
+2,FALSE,5,5,2,2005,ROS,Other,Male,55-64,0,0,0
+1,FALSE,3,5,2,2005,ROS,Other,Female,35-44,0,0,0
+2,FALSE,2,5,2,2005,ROS,Other,Male,25-34,0,0,0
+2,FALSE,FALSE,4,2,2005,ROS,Hispanic,Male,Total,509,"1,448",699
+1,FALSE,FALSE,4,2,2005,ROS,Hispanic,Female,Total,62,596,156
+2,FALSE,FALSE,4,2,2005,ROS,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,2,2005,ROS,Hispanic,Female,<1,0,1,0
+2,FALSE,8,4,2,2005,ROS,Hispanic,Male,85+,11,48,16
+1,FALSE,8,4,2,2005,ROS,Hispanic,Female,85+,0,42,6
+2,FALSE,7,4,2,2005,ROS,Hispanic,Male,75-84,33,182,43
+1,FALSE,7,4,2,2005,ROS,Hispanic,Female,75-84,2,120,8
+2,FALSE,6,4,2,2005,ROS,Hispanic,Male,65-74,29,257,44
+1,FALSE,6,4,2,2005,ROS,Hispanic,Female,65-74,2,128,12
+2,FALSE,5,4,2,2005,ROS,Hispanic,Male,55-64,67,382,102
+1,FALSE,5,4,2,2005,ROS,Hispanic,Female,55-64,7,124,27
+2,FALSE,4,4,2,2005,ROS,Hispanic,Male,45-54,94,387,143
+1,FALSE,4,4,2,2005,ROS,Hispanic,Female,45-54,13,128,36
+2,FALSE,3,4,2,2005,ROS,Hispanic,Male,35-44,86,139,153
+1,FALSE,3,4,2,2005,ROS,Hispanic,Female,35-44,16,44,34
+2,FALSE,2,4,2,2005,ROS,Hispanic,Male,25-34,74,32,83
+1,FALSE,2,4,2,2005,ROS,Hispanic,Female,25-34,9,4,18
+2,FALSE,1,4,2,2005,ROS,Hispanic,Male,20-24,75,16,73
+1,FALSE,1,4,2,2005,ROS,Hispanic,Female,20-24,9,4,11
+2,FALSE,FALSE,4,2,2005,ROS,Hispanic,Male,19-Oct,40,5,42
+1,FALSE,FALSE,4,2,2005,ROS,Hispanic,Female,19-Oct,4,1,4
+2,FALSE,FALSE,4,2,2005,ROS,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,2,2005,ROS,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,2,2,2005,ROS,Black Non Hispanic,Male,Total,0,2,0
+1,FALSE,FALSE,2,2,2005,ROS,Black Non Hispanic,Female,Total,0,1,0
+2,FALSE,FALSE,2,2,2005,ROS,Black Non Hispanic,Male,<1,0,0,0
+1,FALSE,8,2,2,2005,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,2,2,2005,ROS,Black Non Hispanic,Male,75-84,0,0,0
+2,FALSE,6,2,2,2005,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,FALSE,6,2,2,2005,ROS,Black Non Hispanic,Female,65-74,0,1,0
+2,FALSE,5,2,2,2005,ROS,Black Non Hispanic,Male,55-64,0,1,0
+1,FALSE,5,2,2,2005,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,2,2,2005,ROS,Black Non Hispanic,Male,45-54,0,1,0
+1,FALSE,4,2,2,2005,ROS,Black Non Hispanic,Female,45-54,0,0,0
+1,FALSE,3,2,2,2005,ROS,Black Non Hispanic,Female,35-44,0,0,0
+1,FALSE,FALSE,2,2,2005,ROS,Black Non Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,1,2005,NYC,White Non Hispanic,Male,Total,1,0,1
+1,FALSE,FALSE,1,1,2005,NYC,White Non Hispanic,Female,Total,0,0,0
+1,FALSE,8,1,1,2005,NYC,White Non Hispanic,Female,85+,0,0,0
+1,FALSE,7,1,1,2005,NYC,White Non Hispanic,Female,75-84,0,0,0
+2,FALSE,6,1,1,2005,NYC,White Non Hispanic,Male,65-74,0,0,0
+2,FALSE,3,1,1,2005,NYC,White Non Hispanic,Male,35-44,1,0,1
+2,FALSE,FALSE,3,1,2005,NYC,Asian/ Pacific Islander,Male,Total,0,0,0
+1,FALSE,FALSE,3,1,2005,NYC,Asian/ Pacific Islander,Female,Total,0,0,0
+2,FALSE,8,3,1,2005,NYC,Asian/ Pacific Islander,Male,85+,0,0,0
+1,FALSE,6,3,1,2005,NYC,Asian/ Pacific Islander,Female,65-74,0,0,0
+2,FALSE,1,3,1,2005,NYC,Asian/ Pacific Islander,Male,20-24,0,0,0
+1,FALSE,FALSE,5,1,2005,NYC,Other,Female,Total,0,0,0
+1,FALSE,3,5,1,2005,NYC,Other,Female,35-44,0,0,0
+2,FALSE,FALSE,4,1,2005,NYC,Hispanic,Male,Total,38,"1,134",344
+1,FALSE,FALSE,4,1,2005,NYC,Hispanic,Female,Total,2,397,113
+2,FALSE,FALSE,4,1,2005,NYC,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,1,2005,NYC,Hispanic,Female,<1,0,0,0
+2,FALSE,8,4,1,2005,NYC,Hispanic,Male,85+,0,16,7
+1,FALSE,8,4,1,2005,NYC,Hispanic,Female,85+,0,18,8
+2,FALSE,7,4,1,2005,NYC,Hispanic,Male,75-84,1,68,22
+1,FALSE,7,4,1,2005,NYC,Hispanic,Female,75-84,0,55,6
+2,FALSE,6,4,1,2005,NYC,Hispanic,Male,65-74,1,170,22
+1,FALSE,6,4,1,2005,NYC,Hispanic,Female,65-74,0,82,9
+2,FALSE,5,4,1,2005,NYC,Hispanic,Male,55-64,4,321,39
+1,FALSE,5,4,1,2005,NYC,Hispanic,Female,55-64,1,89,14
+2,FALSE,4,4,1,2005,NYC,Hispanic,Male,45-54,6,373,80
+1,FALSE,4,4,1,2005,NYC,Hispanic,Female,45-54,0,110,23
+2,FALSE,3,4,1,2005,NYC,Hispanic,Male,35-44,10,144,71
+1,FALSE,3,4,1,2005,NYC,Hispanic,Female,35-44,0,36,14
+2,FALSE,2,4,1,2005,NYC,Hispanic,Male,25-34,9,30,64
+1,FALSE,2,4,1,2005,NYC,Hispanic,Female,25-34,0,4,20
+2,FALSE,1,4,1,2005,NYC,Hispanic,Male,20-24,7,10,24
+1,FALSE,1,4,1,2005,NYC,Hispanic,Female,20-24,0,2,13
+2,FALSE,FALSE,4,1,2005,NYC,Hispanic,Male,19-Oct,0,2,15
+1,FALSE,FALSE,4,1,2005,NYC,Hispanic,Female,19-Oct,1,1,6
+2,FALSE,FALSE,4,1,2005,NYC,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,1,2005,NYC,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,2,1,2005,NYC,Black Non Hispanic,Male,Total,0,0,0
+2,FALSE,8,2,1,2005,NYC,Black Non Hispanic,Male,85+,0,0,0
+2,FALSE,7,2,1,2005,NYC,Black Non Hispanic,Male,75-84,0,0,0
+2,FALSE,6,2,1,2005,NYC,Black Non Hispanic,Male,65-74,0,0,0
+2,FALSE,FALSE,1,2,2005,ROS,White Non Hispanic,Male,Total,0,5,1
+1,FALSE,FALSE,1,2,2005,ROS,White Non Hispanic,Female,Total,0,3,0
+2,FALSE,FALSE,1,2,2005,ROS,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,1,2,2005,ROS,White Non Hispanic,Female,<1,0,0,0
+2,FALSE,8,1,2,2005,ROS,White Non Hispanic,Male,85+,0,1,0
+1,FALSE,8,1,2,2005,ROS,White Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,1,2,2005,ROS,White Non Hispanic,Male,75-84,0,1,0
+1,FALSE,7,1,2,2005,ROS,White Non Hispanic,Female,75-84,0,2,0
+2,FALSE,6,1,2,2005,ROS,White Non Hispanic,Male,65-74,0,0,0
+1,FALSE,6,1,2,2005,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,FALSE,5,1,2,2005,ROS,White Non Hispanic,Male,55-64,0,0,0
+1,FALSE,5,1,2,2005,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,1,2,2005,ROS,White Non Hispanic,Male,45-54,0,2,1
+1,FALSE,4,1,2,2005,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,FALSE,3,1,2,2005,ROS,White Non Hispanic,Male,35-44,0,0,0
+1,FALSE,3,1,2,2005,ROS,White Non Hispanic,Female,35-44,0,1,0
+2,FALSE,2,1,2,2005,ROS,White Non Hispanic,Male,25-34,0,1,0
+2,FALSE,1,1,2,2005,ROS,White Non Hispanic,Male,20-24,0,0,0
+2,FALSE,FALSE,3,2,2005,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,FALSE,FALSE,3,2,2005,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+1,FALSE,5,4,1,2004,NYC,Hispanic,Female,55-64,0,96,17
+2,FALSE,4,4,1,2004,NYC,Hispanic,Male,45-54,2,382,63
+1,FALSE,4,4,1,2004,NYC,Hispanic,Female,45-54,0,127,21
+2,FALSE,3,4,1,2004,NYC,Hispanic,Male,35-44,7,175,71
+1,FALSE,3,4,1,2004,NYC,Hispanic,Female,35-44,0,58,18
+2,FALSE,2,4,1,2004,NYC,Hispanic,Male,25-34,10,47,53
+1,FALSE,2,4,1,2004,NYC,Hispanic,Female,25-34,2,11,22
+2,FALSE,1,4,1,2004,NYC,Hispanic,Male,20-24,3,11,35
+1,FALSE,1,4,1,2004,NYC,Hispanic,Female,20-24,0,2,10
+2,FALSE,FALSE,4,1,2004,NYC,Hispanic,Male,19-Oct,3,1,21
+1,FALSE,FALSE,4,1,2004,NYC,Hispanic,Female,19-Oct,0,1,8
+2,FALSE,FALSE,4,1,2004,NYC,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,7,5,2,2004,ROS,Other,Female,75-84,0,0,0
+2,FALSE,FALSE,2,1,2004,NYC,Black Non Hispanic,Male,Total,1,0,0
+1,FALSE,FALSE,2,1,2004,NYC,Black Non Hispanic,Female,Total,0,0,0
+2,FALSE,FALSE,2,1,2004,NYC,Black Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,2,1,2004,NYC,Black Non Hispanic,Female,<1,0,0,0
+2,FALSE,7,2,1,2004,NYC,Black Non Hispanic,Male,75-84,0,0,0
+1,FALSE,7,2,1,2004,NYC,Black Non Hispanic,Female,75-84,0,0,0
+2,FALSE,5,2,1,2004,NYC,Black Non Hispanic,Male,55-64,0,0,0
+2,FALSE,2,2,1,2004,NYC,Black Non Hispanic,Male,25-34,1,0,0
+1,FALSE,FALSE,4,1,2004,NYC,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,2,2004,ROS,White Non Hispanic,Male,Total,0,3,0
+1,FALSE,FALSE,1,2,2004,ROS,White Non Hispanic,Female,Total,0,1,0
+2,FALSE,FALSE,1,2,2004,ROS,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,1,2,2004,ROS,White Non Hispanic,Female,<1,0,0,0
+2,FALSE,8,1,2,2004,ROS,White Non Hispanic,Male,85+,0,0,0
+1,FALSE,8,1,2,2004,ROS,White Non Hispanic,Female,85+,0,1,0
+2,FALSE,7,1,2,2004,ROS,White Non Hispanic,Male,75-84,0,0,0
+1,FALSE,7,1,2,2004,ROS,White Non Hispanic,Female,75-84,0,0,0
+2,FALSE,6,1,2,2004,ROS,White Non Hispanic,Male,65-74,0,1,0
+1,FALSE,6,1,2,2004,ROS,White Non Hispanic,Female,65-74,0,0,0
+2,FALSE,5,1,2,2004,ROS,White Non Hispanic,Male,55-64,0,1,0
+1,FALSE,5,1,2,2004,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,1,2,2004,ROS,White Non Hispanic,Male,45-54,0,1,0
+1,FALSE,4,1,2,2004,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,FALSE,3,1,2,2004,ROS,White Non Hispanic,Male,35-44,0,0,0
+1,FALSE,3,1,2,2004,ROS,White Non Hispanic,Female,35-44,0,0,0
+1,FALSE,2,1,2,2004,ROS,White Non Hispanic,Female,25-34,0,0,0
+2,FALSE,1,1,2,2004,ROS,White Non Hispanic,Male,20-24,0,0,0
+2,FALSE,FALSE,3,2,2004,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,FALSE,FALSE,3,2,2004,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+2,FALSE,FALSE,3,2,2004,ROS,Asian/ Pacific Islander,Male,<1,0,0,0
+2,FALSE,8,3,2,2004,ROS,Asian/ Pacific Islander,Male,85+,0,0,0
+1,FALSE,6,3,2,2004,ROS,Asian/ Pacific Islander,Female,65-74,0,0,0
+1,FALSE,5,3,2,2004,ROS,Asian/ Pacific Islander,Female,55-64,0,0,0
+2,FALSE,FALSE,5,2,2004,ROS,Other,Male,Total,1,2,1
+1,FALSE,FALSE,5,2,2004,ROS,Other,Female,Total,0,0,0
+2,FALSE,FALSE,5,2,2004,ROS,Other,Male,<1,0,0,0
+1,FALSE,FALSE,5,2,2004,ROS,Other,Female,<1,0,0,0
+2,FALSE,8,5,2,2004,ROS,Other,Male,85+,0,0,0
+1,FALSE,8,5,2,2004,ROS,Other,Female,85+,0,0,0
+2,FALSE,6,5,2,2004,ROS,Other,Male,65-74,0,1,0
+1,FALSE,6,5,2,2004,ROS,Other,Female,65-74,0,0,0
+2,FALSE,5,5,2,2004,ROS,Other,Male,55-64,0,1,0
+2,FALSE,4,5,2,2004,ROS,Other,Male,45-54,0,0,0
+1,FALSE,4,5,2,2004,ROS,Other,Female,45-54,0,0,0
+2,FALSE,3,5,2,2004,ROS,Other,Male,35-44,1,0,1
+2,FALSE,FALSE,5,2,2004,ROS,Other,Male,9-Jan,0,0,0
+2,FALSE,FALSE,4,2,2004,ROS,Hispanic,Male,Total,454,"1,330",647
+1,FALSE,FALSE,4,2,2004,ROS,Hispanic,Female,Total,42,604,143
+2,FALSE,FALSE,4,2,2004,ROS,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,2,2004,ROS,Hispanic,Female,<1,0,0,1
+2,FALSE,8,4,2,2004,ROS,Hispanic,Male,85+,3,39,6
+1,FALSE,8,4,2,2004,ROS,Hispanic,Female,85+,0,49,4
+2,FALSE,7,4,2,2004,ROS,Hispanic,Male,75-84,32,185,47
+1,FALSE,7,4,2,2004,ROS,Hispanic,Female,75-84,2,126,15
+2,FALSE,6,4,2,2004,ROS,Hispanic,Male,65-74,32,279,48
+1,FALSE,6,4,2,2004,ROS,Hispanic,Female,65-74,4,135,8
+2,FALSE,5,4,2,2004,ROS,Hispanic,Male,55-64,55,324,86
+1,FALSE,5,4,2,2004,ROS,Hispanic,Female,55-64,5,126,17
+2,FALSE,4,4,2,2004,ROS,Hispanic,Male,45-54,89,333,143
+1,FALSE,4,4,2,2004,ROS,Hispanic,Female,45-54,6,121,37
+2,FALSE,3,4,2,2004,ROS,Hispanic,Male,35-44,79,120,126
+1,FALSE,3,4,2,2004,ROS,Hispanic,Female,35-44,2,34,29
+2,FALSE,2,4,2,2004,ROS,Hispanic,Male,25-34,79,31,97
+1,FALSE,2,4,2,2004,ROS,Hispanic,Female,25-34,9,10,12
+2,FALSE,1,4,2,2004,ROS,Hispanic,Male,20-24,59,11,51
+1,FALSE,1,4,2,2004,ROS,Hispanic,Female,20-24,8,2,9
+2,FALSE,FALSE,4,2,2004,ROS,Hispanic,Male,19-Oct,26,8,43
+1,FALSE,FALSE,4,2,2004,ROS,Hispanic,Female,19-Oct,6,1,11
+2,FALSE,FALSE,4,2,2004,ROS,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,2,2004,ROS,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,2,2,2004,ROS,Black Non Hispanic,Male,Total,0,3,0
+1,FALSE,FALSE,2,2,2004,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,FALSE,8,2,2,2004,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,FALSE,8,2,2,2004,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,2,2,2004,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,FALSE,7,2,2,2004,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,FALSE,6,2,2,2004,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,FALSE,6,2,2,2004,ROS,Black Non Hispanic,Female,65-74,0,0,0
+2,FALSE,5,2,2,2004,ROS,Black Non Hispanic,Male,55-64,0,1,0
+1,FALSE,5,2,2,2004,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,2,2,2004,ROS,Black Non Hispanic,Male,45-54,0,1,0
+2,FALSE,3,2,2,2004,ROS,Black Non Hispanic,Male,35-44,0,1,0
+1,FALSE,3,2,2,2004,ROS,Black Non Hispanic,Female,35-44,0,0,0
+2,FALSE,FALSE,2,2,2004,ROS,Black Non Hispanic,Male,19-Oct,0,0,0
+2,FALSE,FALSE,1,1,2004,NYC,White Non Hispanic,Male,Total,1,0,0
+1,FALSE,FALSE,1,1,2004,NYC,White Non Hispanic,Female,Total,0,0,0
+2,FALSE,8,1,1,2004,NYC,White Non Hispanic,Male,85+,0,0,0
+1,FALSE,8,1,1,2004,NYC,White Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,1,1,2004,NYC,White Non Hispanic,Male,75-84,0,0,0
+1,FALSE,7,1,1,2004,NYC,White Non Hispanic,Female,75-84,0,0,0
+2,FALSE,6,1,1,2004,NYC,White Non Hispanic,Male,65-74,0,0,0
+1,FALSE,6,1,1,2004,NYC,White Non Hispanic,Female,65-74,0,0,0
+2,FALSE,5,1,1,2004,NYC,White Non Hispanic,Male,55-64,0,0,0
+1,FALSE,5,1,1,2004,NYC,White Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,1,1,2004,NYC,White Non Hispanic,Male,45-54,0,0,0
+1,FALSE,4,1,1,2004,NYC,White Non Hispanic,Female,45-54,0,0,0
+2,FALSE,3,1,1,2004,NYC,White Non Hispanic,Male,35-44,1,0,0
+2,FALSE,2,1,1,2004,NYC,White Non Hispanic,Male,25-34,0,0,0
+2,FALSE,FALSE,1,1,2004,NYC,White Non Hispanic,Male,19-Oct,0,0,0
+2,FALSE,FALSE,3,1,2004,NYC,Asian/ Pacific Islander,Male,Total,0,0,0
+1,FALSE,FALSE,3,1,2004,NYC,Asian/ Pacific Islander,Female,Total,0,0,0
+2,FALSE,8,3,1,2004,NYC,Asian/ Pacific Islander,Male,85+,0,0,0
+1,FALSE,8,3,1,2004,NYC,Asian/ Pacific Islander,Female,85+,0,0,0
+1,FALSE,5,3,1,2004,NYC,Asian/ Pacific Islander,Female,55-64,0,0,0
+2,FALSE,FALSE,5,1,2004,NYC,Other,Male,Total,0,0,0
+1,FALSE,FALSE,5,1,2004,NYC,Other,Female,Total,0,0,0
+1,FALSE,8,5,1,2004,NYC,Other,Female,85+,0,0,0
+2,FALSE,6,5,1,2004,NYC,Other,Male,65-74,0,0,0
+2,FALSE,4,5,1,2004,NYC,Other,Male,45-54,0,0,0
+2,FALSE,3,5,1,2004,NYC,Other,Male,35-44,0,0,0
+2,FALSE,FALSE,4,1,2004,NYC,Hispanic,Male,Total,28,"1,224",347
+1,FALSE,FALSE,4,1,2004,NYC,Hispanic,Female,Total,2,465,117
+2,FALSE,FALSE,4,1,2004,NYC,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,1,2004,NYC,Hispanic,Female,<1,0,0,0
+2,FALSE,8,4,1,2004,NYC,Hispanic,Male,85+,0,11,11
+1,FALSE,8,4,1,2004,NYC,Hispanic,Female,85+,0,18,8
+2,FALSE,7,4,1,2004,NYC,Hispanic,Male,75-84,0,88,21
+1,FALSE,7,4,1,2004,NYC,Hispanic,Female,75-84,0,66,7
+2,FALSE,6,4,1,2004,NYC,Hispanic,Male,65-74,1,196,28
+1,FALSE,6,4,1,2004,NYC,Hispanic,Female,65-74,0,86,6
+2,FALSE,5,4,1,2004,NYC,Hispanic,Male,55-64,2,313,44
+2,FALSE,FALSE,1,2,2003,ROS,White Non Hispanic,Male,Total,2,8,3
+1,FALSE,FALSE,1,2,2003,ROS,White Non Hispanic,Female,Total,0,4,1
+2,FALSE,FALSE,1,2,2003,ROS,White Non Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,1,2,2003,ROS,White Non Hispanic,Female,<1,0,0,0
+2,FALSE,8,1,2,2003,ROS,White Non Hispanic,Male,85+,0,0,0
+1,FALSE,8,1,2,2003,ROS,White Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,1,2,2003,ROS,White Non Hispanic,Male,75-84,0,2,0
+1,FALSE,7,1,2,2003,ROS,White Non Hispanic,Female,75-84,0,3,0
+2,FALSE,6,1,2,2003,ROS,White Non Hispanic,Male,65-74,2,1,2
+1,FALSE,6,1,2,2003,ROS,White Non Hispanic,Female,65-74,0,1,0
+2,FALSE,5,1,2,2003,ROS,White Non Hispanic,Male,55-64,0,2,0
+1,FALSE,5,1,2,2003,ROS,White Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,1,2,2003,ROS,White Non Hispanic,Male,45-54,0,3,0
+1,FALSE,4,1,2,2003,ROS,White Non Hispanic,Female,45-54,0,0,0
+2,FALSE,3,1,2,2003,ROS,White Non Hispanic,Male,35-44,0,0,1
+1,FALSE,3,1,2,2003,ROS,White Non Hispanic,Female,35-44,0,0,1
+2,FALSE,2,1,2,2003,ROS,White Non Hispanic,Male,25-34,0,0,0
+1,FALSE,1,1,2,2003,ROS,White Non Hispanic,Female,20-24,0,0,0
+1,FALSE,FALSE,1,2,2003,ROS,White Non Hispanic,Female,19-Oct,0,0,0
+2,FALSE,FALSE,3,2,2003,ROS,Asian/ Pacific Islander,Male,Total,0,0,0
+1,FALSE,FALSE,3,2,2003,ROS,Asian/ Pacific Islander,Female,Total,0,0,0
+1,FALSE,8,3,2,2003,ROS,Asian/ Pacific Islander,Female,85+,0,0,0
+2,FALSE,7,3,2,2003,ROS,Asian/ Pacific Islander,Male,75-84,0,0,0
+1,FALSE,7,3,2,2003,ROS,Asian/ Pacific Islander,Female,75-84,0,0,0
+2,FALSE,6,3,2,2003,ROS,Asian/ Pacific Islander,Male,65-74,0,0,0
+1,FALSE,6,3,2,2003,ROS,Asian/ Pacific Islander,Female,65-74,0,0,0
+1,FALSE,5,3,2,2003,ROS,Asian/ Pacific Islander,Female,55-64,0,0,0
+2,FALSE,FALSE,5,2,2003,ROS,Other,Male,Total,0,1,1
+1,FALSE,FALSE,5,2,2003,ROS,Other,Female,Total,0,0,0
+2,FALSE,FALSE,5,2,2003,ROS,Other,Male,<1,0,0,0
+2,FALSE,8,5,2,2003,ROS,Other,Male,85+,0,0,0
+2,FALSE,7,5,2,2003,ROS,Other,Male,75-84,0,0,0
+1,FALSE,7,5,2,2003,ROS,Other,Female,75-84,0,0,0
+2,FALSE,6,5,2,2003,ROS,Other,Male,65-74,0,0,0
+1,FALSE,6,5,2,2003,ROS,Other,Female,65-74,0,0,0
+2,FALSE,5,5,2,2003,ROS,Other,Male,55-64,0,0,1
+1,FALSE,5,5,2,2003,ROS,Other,Female,55-64,0,0,0
+2,FALSE,4,5,2,2003,ROS,Other,Male,45-54,0,1,0
+1,FALSE,4,5,2,2003,ROS,Other,Female,45-54,0,0,0
+2,FALSE,3,5,2,2003,ROS,Other,Male,35-44,0,0,0
+2,FALSE,FALSE,4,2,2003,ROS,Hispanic,Male,Total,471,"1,399",637
+1,FALSE,FALSE,4,2,2003,ROS,Hispanic,Female,Total,52,616,148
+2,FALSE,FALSE,4,2,2003,ROS,Hispanic,Male,<1,0,0,0
+1,FALSE,FALSE,4,2,2003,ROS,Hispanic,Female,<1,0,0,0
+2,FALSE,8,4,2,2003,ROS,Hispanic,Male,85+,13,45,22
+1,FALSE,8,4,2,2003,ROS,Hispanic,Female,85+,0,31,2
+2,FALSE,7,4,2,2003,ROS,Hispanic,Male,75-84,29,182,49
+1,FALSE,7,4,2,2003,ROS,Hispanic,Female,75-84,0,148,6
+2,FALSE,6,4,2,2003,ROS,Hispanic,Male,65-74,38,270,47
+1,FALSE,6,4,2,2003,ROS,Hispanic,Female,65-74,0,121,10
+2,FALSE,5,4,2,2003,ROS,Hispanic,Male,55-64,50,320,86
+1,FALSE,5,4,2,2003,ROS,Hispanic,Female,55-64,6,121,19
+2,FALSE,4,4,2,2003,ROS,Hispanic,Male,45-54,59,384,126
+1,FALSE,4,4,2,2003,ROS,Hispanic,Female,45-54,15,140,40
+2,FALSE,3,4,2,2003,ROS,Hispanic,Male,35-44,73,142,124
+1,FALSE,3,4,2,2003,ROS,Hispanic,Female,35-44,9,52,31
+2,FALSE,2,4,2,2003,ROS,Hispanic,Male,25-34,79,39,88
+1,FALSE,2,4,2,2003,ROS,Hispanic,Female,25-34,12,2,21
+2,FALSE,1,4,2,2003,ROS,Hispanic,Male,20-24,70,9,57
+1,FALSE,1,4,2,2003,ROS,Hispanic,Female,20-24,4,1,15
+2,FALSE,FALSE,4,2,2003,ROS,Hispanic,Male,19-Oct,59,8,38
+1,FALSE,FALSE,4,2,2003,ROS,Hispanic,Female,19-Oct,4,0,4
+2,FALSE,FALSE,4,2,2003,ROS,Hispanic,Male,9-Jan,1,0,0
+1,FALSE,FALSE,4,2,2003,ROS,Hispanic,Female,9-Jan,2,0,0
+2,FALSE,FALSE,2,2,2003,ROS,Black Non Hispanic,Male,Total,3,3,0
+1,FALSE,FALSE,2,2,2003,ROS,Black Non Hispanic,Female,Total,0,0,0
+2,FALSE,FALSE,2,2,2003,ROS,Black Non Hispanic,Male,<1,0,0,0
+2,FALSE,8,2,2,2003,ROS,Black Non Hispanic,Male,85+,0,0,0
+1,FALSE,8,2,2,2003,ROS,Black Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,2,2,2003,ROS,Black Non Hispanic,Male,75-84,0,0,0
+1,FALSE,7,2,2,2003,ROS,Black Non Hispanic,Female,75-84,0,0,0
+2,FALSE,6,2,2,2003,ROS,Black Non Hispanic,Male,65-74,0,0,0
+1,FALSE,6,2,2,2003,ROS,Black Non Hispanic,Female,65-74,0,0,0
+2,FALSE,5,2,2,2003,ROS,Black Non Hispanic,Male,55-64,0,1,0
+1,FALSE,5,2,2,2003,ROS,Black Non Hispanic,Female,55-64,0,0,0
+2,FALSE,4,2,2,2003,ROS,Black Non Hispanic,Male,45-54,0,1,0
+1,FALSE,4,2,2,2003,ROS,Black Non Hispanic,Female,45-54,0,0,0
+2,FALSE,3,2,2,2003,ROS,Black Non Hispanic,Male,35-44,0,1,0
+1,FALSE,3,2,2,2003,ROS,Black Non Hispanic,Female,35-44,0,0,0
+2,FALSE,2,2,2,2003,ROS,Black Non Hispanic,Male,25-34,1,0,0
+2,FALSE,1,2,2,2003,ROS,Black Non Hispanic,Male,20-24,1,0,0
+2,FALSE,FALSE,2,2,2003,ROS,Black Non Hispanic,Male,19-Oct,1,0,0
+1,FALSE,FALSE,2,2,2003,ROS,Black Non Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,1,1,2003,NYC,White Non Hispanic,Male,Total,1,1,0
+1,FALSE,FALSE,1,1,2003,NYC,White Non Hispanic,Female,Total,0,0,0
+1,FALSE,8,1,1,2003,NYC,White Non Hispanic,Female,85+,0,0,0
+2,FALSE,7,1,1,2003,NYC,White Non Hispanic,Male,75-84,0,0,0
+1,FALSE,7,1,1,2003,NYC,White Non Hispanic,Female,75-84,0,0,0
+2,FALSE,5,1,1,2003,NYC,White Non Hispanic,Male,55-64,0,0,0
+2,FALSE,4,1,1,2003,NYC,White Non Hispanic,Male,45-54,0,1,0
+1,FALSE,4,1,1,2003,NYC,White Non Hispanic,Female,45-54,0,0,0
+2,FALSE,2,1,1,2003,NYC,White Non Hispanic,Male,25-34,1,0,0
+1,FALSE,FALSE,3,1,2003,NYC,Asian/ Pacific Islander,Female,Total,0,0,0
+1,FALSE,5,3,1,2003,NYC,Asian/ Pacific Islander,Female,55-64,0,0,0
+2,FALSE,FALSE,5,1,2003,NYC,Other,Male,Total,1,0,0
+2,FALSE,6,5,1,2003,NYC,Other,Male,65-74,0,0,0
+2,FALSE,3,5,1,2003,NYC,Other,Male,35-44,0,0,0
+2,FALSE,2,5,1,2003,NYC,Other,Male,25-34,1,0,0
+2,FALSE,FALSE,4,1,2003,NYC,Hispanic,Male,Total,42,"1,296",329
+1,FALSE,FALSE,4,1,2003,NYC,Hispanic,Female,Total,3,446,132
+2,FALSE,FALSE,4,1,2003,NYC,Hispanic,Male,<1,0,1,0
+1,FALSE,FALSE,4,1,2003,NYC,Hispanic,Female,<1,0,0,0
+2,FALSE,8,4,1,2003,NYC,Hispanic,Male,85+,0,14,11
+1,FALSE,8,4,1,2003,NYC,Hispanic,Female,85+,0,11,5
+2,FALSE,7,4,1,2003,NYC,Hispanic,Male,75-84,0,75,26
+1,FALSE,7,4,1,2003,NYC,Hispanic,Female,75-84,0,52,10
+2,FALSE,6,4,1,2003,NYC,Hispanic,Male,65-74,0,161,28
+1,FALSE,6,4,1,2003,NYC,Hispanic,Female,65-74,0,74,13
+2,FALSE,5,4,1,2003,NYC,Hispanic,Male,55-64,0,344,49
+1,FALSE,5,4,1,2003,NYC,Hispanic,Female,55-64,0,106,24
+2,FALSE,4,4,1,2003,NYC,Hispanic,Male,45-54,3,446,57
+1,FALSE,4,4,1,2003,NYC,Hispanic,Female,45-54,1,126,25
+2,FALSE,3,4,1,2003,NYC,Hispanic,Male,35-44,11,192,61
+1,FALSE,3,4,1,2003,NYC,Hispanic,Female,35-44,0,61,25
+2,FALSE,2,4,1,2003,NYC,Hispanic,Male,25-34,18,52,56
+1,FALSE,2,4,1,2003,NYC,Hispanic,Female,25-34,1,13,19
+2,FALSE,1,4,1,2003,NYC,Hispanic,Male,20-24,1,7,24
+1,FALSE,1,4,1,2003,NYC,Hispanic,Female,20-24,1,0,6
+2,FALSE,FALSE,4,1,2003,NYC,Hispanic,Male,19-Oct,9,4,17
+1,FALSE,FALSE,4,1,2003,NYC,Hispanic,Female,19-Oct,0,3,5
+2,FALSE,FALSE,4,1,2003,NYC,Hispanic,Male,9-Jan,0,0,0
+1,FALSE,FALSE,4,1,2003,NYC,Hispanic,Female,9-Jan,0,0,0
+2,FALSE,FALSE,2,1,2003,NYC,Black Non Hispanic,Male,Total,1,0,0
+1,FALSE,FALSE,2,1,2003,NYC,Black Non Hispanic,Female,Total,0,0,1
+2,FALSE,FALSE,2,1,2003,NYC,Black Non Hispanic,Male,<1,0,0,0
+2,FALSE,8,2,1,2003,NYC,Black Non Hispanic,Male,85+,0,0,0
+1,FALSE,8,2,1,2003,NYC,Black Non Hispanic,Female,85+,0,0,0
+1,FALSE,7,2,1,2003,NYC,Black Non Hispanic,Female,75-84,0,0,0
+2,FALSE,6,2,1,2003,NYC,Black Non Hispanic,Male,65-74,0,0,0
+1,FALSE,6,2,1,2003,NYC,Black Non Hispanic,Female,65-74,0,0,0
+2,FALSE,5,2,1,2003,NYC,Black Non Hispanic,Male,55-64,0,0,0
+2,FALSE,4,2,1,2003,NYC,Black Non Hispanic,Male,45-54,0,0,0
+1,FALSE,4,2,1,2003,NYC,Black Non Hispanic,Female,45-54,0,0,0
+2,FALSE,3,2,1,2003,NYC,Black Non Hispanic,Male,35-44,1,0,0
+1,FALSE,3,2,1,2003,NYC,Black Non Hispanic,Female,35-44,0,0,1
+2,FALSE,1,2,1,2003,NYC,Black Non Hispanic,Male,20-24,0,0,0
